@@ -115,7 +115,6 @@
 
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [andweeb/presence.nvim](https://github.com/andweeb/presence.nvim) - Discord Rich Presence for Neovim
-- [justas-d/mpd-rich-presence-discord](https://github.com/justas-d/mpd-rich-presence-discord) - Broadcast your MPD state using discord rich presence!
 - [EricJMarti/inventory-hunter](https://github.com/EricJMarti/inventory-hunter) - ⚡️ Get notified as soon as your next CPU, GPU, or game console is in stock
 - [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - Discord API Libraries 🚀
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
@@ -280,14 +279,11 @@
 - [Unic-X/Dalit-Bot](https://github.com/Unic-X/Dalit-Bot) - 
 - [wbolster/emacs-evil-colemak-basics](https://github.com/wbolster/emacs-evil-colemak-basics) - Emacs package with basic key rebindings for evil-mode with the Colemak keyboard layout
 - [hoodie/shell-uglify](https://github.com/hoodie/shell-uglify) - Uglify Shellcode
-- [Unic-X/dotfiles](https://github.com/Unic-X/dotfiles) - Personal dotfiles
+- [Unic-X/old-dotfiles](https://github.com/Unic-X/old-dotfiles) - Personal dotfiles
 - [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
-- [Pluffy2217/twitter-clone](https://github.com/Pluffy2217/twitter-clone) - 
-- [Pluffy2217/personal-test-website](https://github.com/Pluffy2217/personal-test-website) - 
 - [fufexan/osu.nix](https://github.com/fufexan/osu.nix) - DEPRECATED osu! on Nix
 - [Fanael/rainbow-delimiters](https://github.com/Fanael/rainbow-delimiters) - Emacs rainbow delimiters mode
 - [nix-chads/nix-propaganda](https://github.com/nix-chads/nix-propaganda) - 
-- [Pluffy2217/blog-website](https://github.com/Pluffy2217/blog-website) - 
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [gytis-ivaskevicius/nixfiles](https://github.com/gytis-ivaskevicius/nixfiles) - My kick-ass NixOS systems configurations!!
 - [MagicRB/dotfiles](https://github.com/MagicRB/dotfiles) - 
