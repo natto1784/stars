@@ -58,7 +58,6 @@
 - [renatoGarcia/icecream-cpp](https://github.com/renatoGarcia/icecream-cpp) - 🍦 Never use cout/printf to debug again
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [qt/qtstyleplugins](https://github.com/qt/qtstyleplugins) - Additional style plugins for Qt
-- [justas-d/mpd-rich-presence-discord](https://github.com/justas-d/mpd-rich-presence-discord) - Broadcast your MPD state using discord rich presence!
 - [gamedevtech/X11OpenGLWindow](https://github.com/gamedevtech/X11OpenGLWindow) - Tutorial on creating an X11 OpenGL window
 - [audacious-media-player/audacious](https://github.com/audacious-media-player/audacious) - A lightweight and versatile audio player
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
@@ -68,7 +67,6 @@
 
 ## CSS 
 
-- [Pluffy2217/personal-test-website](https://github.com/Pluffy2217/personal-test-website) - 
 - [mut-ex/minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox) - A minimal, yet functional Firefox userChrome configuration.
 
 ## Emacs Lisp 
@@ -110,8 +108,6 @@
 - [tsoding/jai-wasm](https://github.com/tsoding/jai-wasm) - Jai WebAssembly Proof-of-Concept
 - [FooSoft/yomichan](https://github.com/FooSoft/yomichan) - Japanese pop-up dictionary extension for Chrome and Firefox.
 - [Unic-X/AnilistSex](https://github.com/Unic-X/AnilistSex) - Maa 😢🙏
-- [Pluffy2217/twitter-clone](https://github.com/Pluffy2217/twitter-clone) - 
-- [Pluffy2217/blog-website](https://github.com/Pluffy2217/blog-website) - 
 - [tomdionysus/foaas](https://github.com/tomdionysus/foaas) - FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
 - [chjj/tty.js](https://github.com/chjj/tty.js) - A terminal for your browser, using node/express/socket.io
 - [dovydasgulbinas/indiachan](https://github.com/dovydasgulbinas/indiachan) - Source Code For site indiachan.com
@@ -216,7 +212,7 @@
 - [robinhuiser/concourse-arm64](https://github.com/robinhuiser/concourse-arm64) - 
 - [eshrh/ames](https://github.com/eshrh/ames) - Anki Media Extractor Script: Update anki cards with desktop audio and image on gnu/linux
 - [hoodie/shell-uglify](https://github.com/hoodie/shell-uglify) - Uglify Shellcode
-- [Unic-X/dotfiles](https://github.com/Unic-X/dotfiles) - Personal dotfiles
+- [Unic-X/old-dotfiles](https://github.com/Unic-X/old-dotfiles) - Personal dotfiles
 - [DreymaR/BigBagKbdTrixXKB](https://github.com/DreymaR/BigBagKbdTrixXKB) - "DreymaR's Big Bag of Keyboard Tricks" for *nix with XKB
 - [radumirea/ncmpcpp-with-cover-art](https://github.com/radumirea/ncmpcpp-with-cover-art) - 
 - [tam-carre/ncmpcpp-ueberzug](https://github.com/tam-carre/ncmpcpp-ueberzug) - An ncmpcpp wrapper that enables cover art via ueberzug.
