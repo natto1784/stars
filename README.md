@@ -194,7 +194,7 @@
 ## Rust 
 
 - [TBS1996/speki](https://github.com/TBS1996/speki) - flashcard app in your terminal
-- [Kindelia/Kind2](https://github.com/Kindelia/Kind2) - A next-gen functional language
+- [Kindelia/Kind](https://github.com/Kindelia/Kind) - A next-gen functional language
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - The most efficient implementation of IPFS on any planet
 - [fedimint/fedimint](https://github.com/fedimint/fedimint) - Federated E-Cash Mint
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
