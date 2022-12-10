@@ -250,7 +250,7 @@
 - [tsoding/jai-wasm](https://github.com/tsoding/jai-wasm) - Jai WebAssembly Proof-of-Concept
 - [RaitoBezarius/nixos-home](https://github.com/RaitoBezarius/nixos-home) - My NixOS home configuration
 - [TBS1996/speki](https://github.com/TBS1996/speki) - flashcard app in your terminal
-- [Kindelia/Kind2](https://github.com/Kindelia/Kind2) - A next-gen functional language
+- [Kindelia/Kind](https://github.com/Kindelia/Kind) - A next-gen functional language
 - [swarm-game/swarm](https://github.com/swarm-game/swarm) - Resource gathering + programming game
 - [nasyxx/NasyMoe](https://github.com/nasyxx/NasyMoe) - My personal website source.
 - [collinarnett/stable-diffusion-nix](https://github.com/collinarnett/stable-diffusion-nix) - JupyterLab Flake for Stable Diffusion
