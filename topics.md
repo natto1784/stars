@@ -132,6 +132,7 @@
 
 ## emacs 
 
+- [wbolster/emacs-direnv](https://github.com/wbolster/emacs-direnv) - direnv integration for emacs
 - [tecosaur/engrave-faces](https://github.com/tecosaur/engrave-faces) - Convert font-lock faces to other formats
 - [SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el) - A simple competitive programming IDE
 - [emacs-tree-sitter/tree-sitter-langs](https://github.com/emacs-tree-sitter/tree-sitter-langs) - Language bundle for Emacs's tree-sitter package
@@ -243,6 +244,7 @@
 
 ## others 
 
+- [lopsided98/nix-ros-overlay](https://github.com/lopsided98/nix-ros-overlay) - ROS overlay for the Nix package manager
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
 - [google/rune](https://github.com/google/rune) - Rune is a programming language developed to test ideas for improving security and efficiency.
 - [n8willis/opentype-shaping-documents](https://github.com/n8willis/opentype-shaping-documents) - Documentation of OpenType shaping behavior
