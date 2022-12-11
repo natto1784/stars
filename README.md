@@ -71,6 +71,7 @@
 
 ## Emacs Lisp 
 
+- [wbolster/emacs-direnv](https://github.com/wbolster/emacs-direnv) - direnv integration for emacs
 - [radian-software/selectrum](https://github.com/radian-software/selectrum) - 🔔 Better solution for incremental narrowing in Emacs.
 - [tecosaur/engrave-faces](https://github.com/tecosaur/engrave-faces) - Convert font-lock faces to other formats
 - [manateelazycat/aweshell](https://github.com/manateelazycat/aweshell) - Awesome shell extension base on eshell with wonderful features!
@@ -132,6 +133,7 @@
 
 ## Nix 
 
+- [lopsided98/nix-ros-overlay](https://github.com/lopsided98/nix-ros-overlay) - ROS overlay for the Nix package manager
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
 - [cdepillabout/stacklock2nix](https://github.com/cdepillabout/stacklock2nix) - Easily build a Haskell project from a stack.yaml.lock file with Nix
 - [jordanisaacs/kernel-module-flake](https://github.com/jordanisaacs/kernel-module-flake) - Nix flake for linux kernel module development
