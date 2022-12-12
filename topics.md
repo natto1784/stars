@@ -151,7 +151,7 @@
 
 ## game 
 
-- [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) - A rhythm game made with HaxeFlixel
+- [FunkinCrew/Funkin](https://github.com/FunkinCrew/Funkin) - A rhythm game made with HaxeFlixel
 
 ## git 
 
@@ -244,6 +244,7 @@
 
 ## others 
 
+- [atom-robotics-lab/MR-Robot_Hardware](https://github.com/atom-robotics-lab/MR-Robot_Hardware) - 
 - [lopsided98/nix-ros-overlay](https://github.com/lopsided98/nix-ros-overlay) - ROS overlay for the Nix package manager
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
 - [google/rune](https://github.com/google/rune) - Rune is a programming language developed to test ideas for improving security and efficiency.
