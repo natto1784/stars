@@ -53,6 +53,7 @@
 
 ## C++ 
 
+- [atom-robotics-lab/MR-Robot_Hardware](https://github.com/atom-robotics-lab/MR-Robot_Hardware) - 
 - [IvarWithoutBones/er-utils](https://github.com/IvarWithoutBones/er-utils) - A Elden Ring save file editor for the command line
 - [Ipotrick/Daxa](https://github.com/Ipotrick/Daxa) - Daxa is my opinionated gpu api library.
 - [renatoGarcia/icecream-cpp](https://github.com/renatoGarcia/icecream-cpp) - 🍦 Never use cout/printf to debug again
@@ -102,7 +103,7 @@
 
 ## Haxe 
 
-- [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) - A rhythm game made with HaxeFlixel
+- [FunkinCrew/Funkin](https://github.com/FunkinCrew/Funkin) - A rhythm game made with HaxeFlixel
 
 ## JavaScript 
 
