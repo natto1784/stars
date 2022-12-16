@@ -24,6 +24,7 @@
 - [flask](#flask)
 - [game](#game)
 - [git](#git)
+- [github](#github)
 - [golang](#golang)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
@@ -156,6 +157,10 @@
 ## git 
 
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
+
+## github 
+
+- [nikolas/github-drama](https://github.com/nikolas/github-drama) - "This conversation has been locked as resolved and limited to collaborators."
 
 ## golang 
 
