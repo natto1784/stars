@@ -110,7 +110,7 @@
 
 - [tsoding/jai-wasm](https://github.com/tsoding/jai-wasm) - Jai WebAssembly Proof-of-Concept
 - [FooSoft/yomichan](https://github.com/FooSoft/yomichan) - Japanese pop-up dictionary extension for Chrome and Firefox.
-- [Unic-X/AnilistSex](https://github.com/Unic-X/AnilistSex) - Maa 😢🙏
+- [Unic-X/Anilist-Post-Ext](https://github.com/Unic-X/Anilist-Post-Ext) - Maa 😢🙏
 - [tomdionysus/foaas](https://github.com/tomdionysus/foaas) - FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
 - [chjj/tty.js](https://github.com/chjj/tty.js) - A terminal for your browser, using node/express/socket.io
 - [dovydasgulbinas/indiachan](https://github.com/dovydasgulbinas/indiachan) - Source Code For site indiachan.com
@@ -188,7 +188,7 @@
 - [jslay88/qbt_migrate](https://github.com/jslay88/qbt_migrate) - Migrate qBittorrent downloads
 - [risicle/nix-build-task](https://github.com/risicle/nix-build-task) - A reusable Concourse task for building Nix derivations
 - [CuBeRJAN/astOS](https://github.com/CuBeRJAN/astOS) - An immutable Arch based GNU+Linux distribution utilizing BTRFS snapshots
-- [Unic-X/Dalit-Bot](https://github.com/Unic-X/Dalit-Bot) - 
+- [Unic-X/Kala-Bot](https://github.com/Unic-X/Kala-Bot) - 
 - [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player from the future! :city_sunset:
 - [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
 - [ligh7s/smoked-salmon](https://github.com/ligh7s/smoked-salmon) - salmon uploading tools~
