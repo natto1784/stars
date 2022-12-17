@@ -284,8 +284,8 @@
 - [cdanis/sandia-public-license](https://github.com/cdanis/sandia-public-license) - This is not a license of honor. No highly esteemed copyright statement is written here.
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
 - [infinisil/nixus](https://github.com/infinisil/nixus) - 
-- [Unic-X/AnilistSex](https://github.com/Unic-X/AnilistSex) - Maa 😢🙏
-- [Unic-X/Dalit-Bot](https://github.com/Unic-X/Dalit-Bot) - 
+- [Unic-X/Anilist-Post-Ext](https://github.com/Unic-X/Anilist-Post-Ext) - Maa 😢🙏
+- [Unic-X/Kala-Bot](https://github.com/Unic-X/Kala-Bot) - 
 - [wbolster/emacs-evil-colemak-basics](https://github.com/wbolster/emacs-evil-colemak-basics) - Emacs package with basic key rebindings for evil-mode with the Colemak keyboard layout
 - [hoodie/shell-uglify](https://github.com/hoodie/shell-uglify) - Uglify Shellcode
 - [Unic-X/old-dotfiles](https://github.com/Unic-X/old-dotfiles) - Personal dotfiles
