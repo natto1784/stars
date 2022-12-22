@@ -9,7 +9,6 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
-- [Dart](#dart)
 - [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HTML](#html)
@@ -22,6 +21,7 @@
 - [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
+- [Pascal](#pascal)
 - [Perl](#perl)
 - [Processing](#processing)
 - [Python](#python)
@@ -70,10 +70,6 @@
 ## CSS 
 
 - [mut-ex/minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox) - A minimal, yet functional Firefox userChrome configuration.
-
-## Dart 
-
-- [d12bb/AdventOfCode](https://github.com/d12bb/AdventOfCode) - My solutions to Advent of Code 2022
 
 ## Emacs Lisp 
 
@@ -177,6 +173,10 @@
 
 - [jbowens/jBBCode](https://github.com/jbowens/jBBCode) - A lightweight but extensible BBCode parser
 - [Rouji/single_php_filehost](https://github.com/Rouji/single_php_filehost) - Simple Filehosting Page in a Single PHP File (obvious 0x0 clone)
+
+## Pascal 
+
+- [d12bb/AdventOfCode](https://github.com/d12bb/AdventOfCode) - My solutions to Advent of Code 2022
 
 ## Perl 
 
