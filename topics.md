@@ -12,10 +12,12 @@
 - [c](#c)
 - [chrome](#chrome)
 - [cli](#cli)
+- [compiler](#compiler)
 - [config](#config)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [cybersecurity](#cybersecurity)
+- [devops](#devops)
 - [discord](#discord)
 - [docker](#docker)
 - [dotnet](#dotnet)
@@ -34,6 +36,7 @@
 - [library](#library)
 - [linux](#linux)
 - [lua](#lua)
+- [macos](#macos)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
 - [music](#music)
@@ -77,6 +80,7 @@
 
 ## c 
 
+- [vnmakarov/mir](https://github.com/vnmakarov/mir) - A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [xaerru/NVelox](https://github.com/xaerru/NVelox) - Low level Neovim library.
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
@@ -93,6 +97,10 @@
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
+
+## compiler 
+
+- [vnmakarov/mir](https://github.com/vnmakarov/mir) - A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR
 
 ## config 
 
@@ -111,6 +119,10 @@
 ## cybersecurity 
 
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
+
+## devops 
+
+- [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
 
 ## discord 
 
@@ -204,6 +216,7 @@
 
 ## linux 
 
+- [vnmakarov/mir](https://github.com/vnmakarov/mir) - A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR
 - [IvarWithoutBones/er-utils](https://github.com/IvarWithoutBones/er-utils) - A Elden Ring save file editor for the command line
 - [CuBeRJAN/astOS](https://github.com/CuBeRJAN/astOS) - An immutable Arch based GNU+Linux distribution utilizing BTRFS snapshots
 - [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player from the future! :city_sunset:
@@ -219,6 +232,10 @@
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [occivink/mpv-gallery-view](https://github.com/occivink/mpv-gallery-view) - Gallery-view scripts for mpv
 - [occivink/mpv-scripts](https://github.com/occivink/mpv-scripts) - Various scripts for mpv
+
+## macos 
+
+- [vnmakarov/mir](https://github.com/vnmakarov/mir) - A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR
 
 ## mobile 
 
@@ -249,9 +266,12 @@
 
 ## others 
 
+- [ShamylZakariya/Platformer](https://github.com/ShamylZakariya/Platformer) - Learning webgpu in rust by making a simple platformer
+- [nix-community/nixpkgs.lib](https://github.com/nix-community/nixpkgs.lib) - nixpkgs lib for cheap instantiation [maintainer=@github-action] (with initial help from @blaggacao)
+- [ros-visualization/python_qt_binding](https://github.com/ros-visualization/python_qt_binding) - 
 - [srid/flake-root](https://github.com/srid/flake-root) - A `flake-parts` module for finding your way to the project root directory
 - [nix-community/emacs-overlay](https://github.com/nix-community/emacs-overlay) - Bleeding edge emacs overlay [maintainer=@adisbladis]
-- [d12bb/AdventOfCode](https://github.com/d12bb/AdventOfCode) - My solutions to Advent of Code 2022
+- [d12bb/AdventOfCode](https://github.com/d12bb/AdventOfCode) - My solutions to Advent of Code
 - [atom-robotics-lab/MR-Robot_Hardware](https://github.com/atom-robotics-lab/MR-Robot_Hardware) - 
 - [lopsided98/nix-ros-overlay](https://github.com/lopsided98/nix-ros-overlay) - ROS overlay for the Nix package manager
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
@@ -275,7 +295,6 @@
 - [openlab-aux/vuizvui](https://github.com/openlab-aux/vuizvui) - Nix(OS) expressions used by the OpenLab and its members
 - [konradsz/igrep](https://github.com/konradsz/igrep) - Interactive Grep
 - [cioplenu/concourse-nomad-resource](https://github.com/cioplenu/concourse-nomad-resource) - Concourse CI resource to deploy jobs to a nomad cluster
-- [divnix/std](https://github.com/divnix/std) - The Nix Flakes framework for perfectionists with deadlines [maintainer=@blaggacao]
 - [robinhuiser/concourse-arm64](https://github.com/robinhuiser/concourse-arm64) - 
 - [AZO234/NP2kai](https://github.com/AZO234/NP2kai) - Neko Project II kai
 - [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
