@@ -25,6 +25,7 @@
 - [Processing](#processing)
 - [Python](#python)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [Shell](#shell)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -135,6 +136,7 @@
 
 ## Nix 
 
+- [aakropotkin/floco](https://github.com/aakropotkin/floco) - Using Nix to put NPM and Yarn in a coffin
 - [nix-community/nixpkgs.lib](https://github.com/nix-community/nixpkgs.lib) - nixpkgs lib for cheap instantiation [maintainer=@github-action] (with initial help from @blaggacao)
 - [srid/flake-root](https://github.com/srid/flake-root) - A `flake-parts` module for finding your way to the project root directory
 - [nix-community/emacs-overlay](https://github.com/nix-community/emacs-overlay) - Bleeding edge emacs overlay [maintainer=@adisbladis]
@@ -186,6 +188,7 @@
 
 ## Python 
 
+- [imLinguin/nile](https://github.com/imLinguin/nile) - Unofficial Amazon Games client
 - [ros-visualization/python_qt_binding](https://github.com/ros-visualization/python_qt_binding) - 
 - [DangerOnTheRanger/maniwani](https://github.com/DangerOnTheRanger/maniwani) - Imageboard software for the 21st century
 - [jslay88/qbt_migrate](https://github.com/jslay88/qbt_migrate) - Migrate qBittorrent downloads
@@ -205,7 +208,7 @@
 - [ShamylZakariya/Platformer](https://github.com/ShamylZakariya/Platformer) - Learning webgpu in rust by making a simple platformer
 - [d12bb/AdventOfCode](https://github.com/d12bb/AdventOfCode) - My solutions to Advent of Code
 - [TBS1996/speki](https://github.com/TBS1996/speki) - flashcard app in your terminal
-- [Kindelia/Kind](https://github.com/Kindelia/Kind) - A next-gen functional language
+- [HigherOrderCO/Kind](https://github.com/HigherOrderCO/Kind) - A next-gen functional language
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - The most efficient implementation of IPFS on any planet
 - [fedimint/fedimint](https://github.com/fedimint/fedimint) - Federated E-Cash Mint
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
@@ -217,6 +220,10 @@
 - [ParadoxSpiral/libmpv-rs](https://github.com/ParadoxSpiral/libmpv-rs) - A libmpv abstraction written in rust that's easy to use and provides the ability to read next to all video and audio codecs.
 - [Acizza/anup](https://github.com/Acizza/anup) - An anime tracker for AniList featuring a TUI.
 - [khilansantoki/brainfuck](https://github.com/khilansantoki/brainfuck) - brainfuck
+
+## SCSS 
+
+- [saimoomedits/eww-widgets](https://github.com/saimoomedits/eww-widgets) - my eww widgets!
 
 ## Shell 
 
