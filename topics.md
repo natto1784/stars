@@ -180,6 +180,7 @@
 
 ## hacktoberfest 
 
+- [tsoding/turd](https://github.com/tsoding/turd) - Turing Machine in D
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [xaerru/NVelox](https://github.com/xaerru/NVelox) - Low level Neovim library.
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
@@ -252,6 +253,7 @@
 
 ## neovim 
 
+- [NotAShelf/neovim-flake](https://github.com/NotAShelf/neovim-flake) - Because Helix will never become what I want.
 - [andweeb/presence.nvim](https://github.com/andweeb/presence.nvim) - Discord Rich Presence for Neovim
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [xaerru/NVelox](https://github.com/xaerru/NVelox) - Low level Neovim library.
@@ -267,6 +269,8 @@
 
 ## others 
 
+- [nix-community/mineflake](https://github.com/nix-community/mineflake) - Declarative Minecraft server in NixOS [maintainer=@cofob]
+- [CommitteeOfZero/multiversal-coz-linux-patcher](https://github.com/CommitteeOfZero/multiversal-coz-linux-patcher) - whose OS runs whose games
 - [saimoomedits/eww-widgets](https://github.com/saimoomedits/eww-widgets) - my eww widgets!
 - [aakropotkin/floco](https://github.com/aakropotkin/floco) - Using Nix to put NPM and Yarn in a coffin
 - [ShamylZakariya/Platformer](https://github.com/ShamylZakariya/Platformer) - Learning webgpu in rust by making a simple platformer
