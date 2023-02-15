@@ -9,6 +9,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [D](#d)
 - [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HTML](#html)
@@ -71,6 +72,10 @@
 ## CSS 
 
 - [mut-ex/minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox) - A minimal, yet functional Firefox userChrome configuration.
+
+## D 
+
+- [tsoding/turd](https://github.com/tsoding/turd) - Turing Machine in D
 
 ## Emacs Lisp 
 
@@ -136,6 +141,7 @@
 
 ## Nix 
 
+- [NotAShelf/neovim-flake](https://github.com/NotAShelf/neovim-flake) - Because Helix will never become what I want.
 - [aakropotkin/floco](https://github.com/aakropotkin/floco) - Using Nix to put NPM and Yarn in a coffin
 - [nix-community/nixpkgs.lib](https://github.com/nix-community/nixpkgs.lib) - nixpkgs lib for cheap instantiation [maintainer=@github-action] (with initial help from @blaggacao)
 - [srid/flake-root](https://github.com/srid/flake-root) - A `flake-parts` module for finding your way to the project root directory
@@ -205,6 +211,7 @@
 
 ## Rust 
 
+- [nix-community/mineflake](https://github.com/nix-community/mineflake) - Declarative Minecraft server in NixOS [maintainer=@cofob]
 - [ShamylZakariya/Platformer](https://github.com/ShamylZakariya/Platformer) - Learning webgpu in rust by making a simple platformer
 - [d12bb/AdventOfCode](https://github.com/d12bb/AdventOfCode) - My solutions to Advent of Code
 - [TBS1996/speki](https://github.com/TBS1996/speki) - flashcard app in your terminal
@@ -227,6 +234,7 @@
 
 ## Shell 
 
+- [CommitteeOfZero/multiversal-coz-linux-patcher](https://github.com/CommitteeOfZero/multiversal-coz-linux-patcher) - whose OS runs whose games
 - [robinhuiser/concourse-arm64](https://github.com/robinhuiser/concourse-arm64) - 
 - [eshrh/ames](https://github.com/eshrh/ames) - Anki Media Extractor Script: Update anki cards with desktop audio and image on gnu/linux
 - [hoodie/shell-uglify](https://github.com/hoodie/shell-uglify) - Uglify Shellcode
