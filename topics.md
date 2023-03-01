@@ -172,7 +172,7 @@
 
 ## github 
 
-- [nikolas/github-drama](https://github.com/nikolas/github-drama) - "This conversation has been locked as resolved and limited to collaborators."
+- [nikolas/github-drama](https://github.com/nikolas/github-drama) - "This conversation has been locked and limited to collaborators."
 
 ## golang 
 
@@ -198,7 +198,7 @@
 
 ## ipfs 
 
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - The most efficient implementation of IPFS on any planet
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IPFS reimagined.
 
 ## language 
 
@@ -241,7 +241,7 @@
 
 ## mobile 
 
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - The most efficient implementation of IPFS on any planet
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IPFS reimagined.
 
 ## mongodb 
 
@@ -253,7 +253,7 @@
 
 ## neovim 
 
-- [NotAShelf/neovim-flake](https://github.com/NotAShelf/neovim-flake) - Because Helix will never become what I want.
+- [NotAShelf/neovim-flake](https://github.com/NotAShelf/neovim-flake) - A highly modular, extensible, declarative and distro agonistic neovim flake for the nix package manager.
 - [andweeb/presence.nvim](https://github.com/andweeb/presence.nvim) - Discord Rich Presence for Neovim
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [xaerru/NVelox](https://github.com/xaerru/NVelox) - Low level Neovim library.
@@ -269,6 +269,7 @@
 
 ## others 
 
+- [IvarWithoutBones/nes-emu](https://github.com/IvarWithoutBones/nes-emu) - 
 - [nix-community/mineflake](https://github.com/nix-community/mineflake) - Declarative Minecraft server in NixOS [maintainer=@cofob]
 - [CommitteeOfZero/multiversal-coz-linux-patcher](https://github.com/CommitteeOfZero/multiversal-coz-linux-patcher) - whose OS runs whose games
 - [saimoomedits/eww-widgets](https://github.com/saimoomedits/eww-widgets) - my eww widgets!
@@ -393,7 +394,7 @@
 ## rust 
 
 - [jordanisaacs/kernel-module-flake](https://github.com/jordanisaacs/kernel-module-flake) - Nix flake for linux kernel module development with rust support
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - The most efficient implementation of IPFS on any planet
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IPFS reimagined.
 - [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
 - [revoltchat/backend](https://github.com/revoltchat/backend) - Monorepo for Revolt backend services.
