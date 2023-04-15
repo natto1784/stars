@@ -145,6 +145,7 @@
 
 ## emacs 
 
+- [willbush/system](https://github.com/willbush/system) - The system configuration of a professional yak shaver
 - [wbolster/emacs-direnv](https://github.com/wbolster/emacs-direnv) - direnv integration for emacs
 - [tecosaur/engrave-faces](https://github.com/tecosaur/engrave-faces) - Convert font-lock faces to other formats
 - [SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el) - A simple competitive programming IDE
@@ -269,6 +270,8 @@
 
 ## others 
 
+- [zerolfx/copilot.el](https://github.com/zerolfx/copilot.el) - An unofficial Copilot plugin for Emacs.
+- [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK
 - [IvarWithoutBones/nes-emu](https://github.com/IvarWithoutBones/nes-emu) - 
 - [nix-community/mineflake](https://github.com/nix-community/mineflake) - Declarative Minecraft server in NixOS [maintainer=@cofob]
 - [CommitteeOfZero/multiversal-coz-linux-patcher](https://github.com/CommitteeOfZero/multiversal-coz-linux-patcher) - whose OS runs whose games
