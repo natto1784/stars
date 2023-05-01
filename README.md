@@ -145,7 +145,7 @@
 ## Nix 
 
 - [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK
-- [NotAShelf/neovim-flake](https://github.com/NotAShelf/neovim-flake) - A highly modular, extensible, declarative and distro agonistic neovim flake for the nix package manager.
+- [NotAShelf/neovim-flake](https://github.com/NotAShelf/neovim-flake) - A highly modular, extensible and distro agonistic neovim distribution for the nix package manager.
 - [aakropotkin/floco](https://github.com/aakropotkin/floco) - Using Nix to put NPM and Yarn in a coffin
 - [nix-community/nixpkgs.lib](https://github.com/nix-community/nixpkgs.lib) - nixpkgs lib for cheap instantiation [maintainer=@github-action] (with initial help from @blaggacao)
 - [srid/flake-root](https://github.com/srid/flake-root) - A `flake-parts` module for finding your way to the project root directory
@@ -197,6 +197,7 @@
 
 ## Python 
 
+- [butaixianran/Stable-Diffusion-Webui-Civitai-Helper](https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper) - Stable Diffusion Webui Extension for Civitai, to manage your model much more easily.
 - [imLinguin/nile](https://github.com/imLinguin/nile) - Unofficial Amazon Games client
 - [ros-visualization/python_qt_binding](https://github.com/ros-visualization/python_qt_binding) - 
 - [DangerOnTheRanger/maniwani](https://github.com/DangerOnTheRanger/maniwani) - Imageboard software for the 21st century
