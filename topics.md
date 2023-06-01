@@ -76,7 +76,7 @@
 ## bot 
 
 - [EricJMarti/inventory-hunter](https://github.com/EricJMarti/inventory-hunter) - ⚡️ Get notified as soon as your next CPU, GPU, or game console is in stock
-- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - Discord API Libraries 🚀
+- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - Discord API Libraries
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 
 ## c 
@@ -130,7 +130,7 @@
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [andweeb/presence.nvim](https://github.com/andweeb/presence.nvim) - Discord Rich Presence for Neovim
 - [EricJMarti/inventory-hunter](https://github.com/EricJMarti/inventory-hunter) - ⚡️ Get notified as soon as your next CPU, GPU, or game console is in stock
-- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - Discord API Libraries 🚀
+- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - Discord API Libraries
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client. Please use Rust for new bots
 - [ugly-bastard/discord_spem](https://github.com/ugly-bastard/discord_spem) - Using selenium to automate some spamming on discord with your user account
@@ -187,10 +187,10 @@
 - [xaerru/NVelox](https://github.com/xaerru/NVelox) - Low level Neovim library.
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 - [NobbZ/nixos-config](https://github.com/NobbZ/nixos-config) - 
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
-- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - Discord API Libraries 🚀
+- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - Discord API Libraries
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 
 ## haskell 
@@ -215,7 +215,7 @@
 ## library 
 
 - [xaerru/NVelox](https://github.com/xaerru/NVelox) - Low level Neovim library.
-- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - Discord API Libraries 🚀
+- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - Discord API Libraries
 - [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client. Please use Rust for new bots
 
 ## linux 
@@ -227,7 +227,7 @@
 - [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player from the future! :city_sunset:
 - [nbfc-linux/nbfc-linux](https://github.com/nbfc-linux/nbfc-linux) - NoteBook FanControl ported to Linux
 - [Acizza/anup](https://github.com/Acizza/anup) - An anime tracker for AniList featuring a TUI.
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 
