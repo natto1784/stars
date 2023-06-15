@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [api](#api)
 - [automation](#automation)
 - [bitcoin](#bitcoin)
@@ -17,6 +18,7 @@
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [cybersecurity](#cybersecurity)
+- [deep-learning](#deep-learning)
 - [devops](#devops)
 - [discord](#discord)
 - [docker](#docker)
@@ -59,6 +61,10 @@
 - [web](#web)
 - [windows](#windows)
 
+## ai 
+
+- [Equim-chan/Mortal](https://github.com/Equim-chan/Mortal) - 🚀🀄️ A fast and strong AI for riichi mahjong, powered by deep reinforcement learning.
+
 ## api 
 
 - [revoltchat/backend](https://github.com/revoltchat/backend) - Monorepo for Revolt backend services.
@@ -76,7 +82,7 @@
 ## bot 
 
 - [EricJMarti/inventory-hunter](https://github.com/EricJMarti/inventory-hunter) - ⚡️ Get notified as soon as your next CPU, GPU, or game console is in stock
-- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - Discord API Libraries
+- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - List of open-source Discord API Libraries
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 
 ## c 
@@ -121,6 +127,10 @@
 
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
 
+## deep-learning 
+
+- [Equim-chan/Mortal](https://github.com/Equim-chan/Mortal) - 🚀🀄️ A fast and strong AI for riichi mahjong, powered by deep reinforcement learning.
+
 ## devops 
 
 - [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
@@ -130,7 +140,7 @@
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [andweeb/presence.nvim](https://github.com/andweeb/presence.nvim) - Discord Rich Presence for Neovim
 - [EricJMarti/inventory-hunter](https://github.com/EricJMarti/inventory-hunter) - ⚡️ Get notified as soon as your next CPU, GPU, or game console is in stock
-- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - Discord API Libraries
+- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - List of open-source Discord API Libraries
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client. Please use Rust for new bots
 - [ugly-bastard/discord_spem](https://github.com/ugly-bastard/discord_spem) - Using selenium to automate some spamming on discord with your user account
@@ -190,7 +200,7 @@
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
-- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - Discord API Libraries
+- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - List of open-source Discord API Libraries
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 
 ## haskell 
@@ -215,7 +225,7 @@
 ## library 
 
 - [xaerru/NVelox](https://github.com/xaerru/NVelox) - Low level Neovim library.
-- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - Discord API Libraries
+- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - List of open-source Discord API Libraries
 - [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client. Please use Rust for new bots
 
 ## linux 
@@ -224,7 +234,7 @@
 - [vnmakarov/mir](https://github.com/vnmakarov/mir) - A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR
 - [IvarWithoutBones/er-utils](https://github.com/IvarWithoutBones/er-utils) - A Elden Ring save file editor for the command line
 - [CuBeRJAN/astOS](https://github.com/CuBeRJAN/astOS) - An immutable Arch based GNU+Linux distribution utilizing BTRFS snapshots
-- [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player from the future! :city_sunset:
+- [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player of today! (its the future now) :city_sunrise:
 - [nbfc-linux/nbfc-linux](https://github.com/nbfc-linux/nbfc-linux) - NoteBook FanControl ported to Linux
 - [Acizza/anup](https://github.com/Acizza/anup) - An anime tracker for AniList featuring a TUI.
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
@@ -252,7 +262,7 @@
 
 ## music 
 
-- [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player from the future! :city_sunset:
+- [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player of today! (its the future now) :city_sunrise:
 
 ## neovim 
 
@@ -272,6 +282,7 @@
 
 ## others 
 
+- [Equim-chan/mjai-reviewer](https://github.com/Equim-chan/mjai-reviewer) - 🔍🀄️ Review mahjong game log with mjai-compatible mahjong AI.
 - [butaixianran/Stable-Diffusion-Webui-Civitai-Helper](https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper) - Stable Diffusion Webui Extension for Civitai, to manage your model much more easily.
 - [zerolfx/copilot.el](https://github.com/zerolfx/copilot.el) - An unofficial Copilot plugin for Emacs.
 - [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK
@@ -432,7 +443,7 @@
 
 ## windows 
 
-- [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player from the future! :city_sunset:
+- [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player of today! (its the future now) :city_sunrise:
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
 - [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
 
