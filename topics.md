@@ -27,6 +27,7 @@
 - [firefox](#firefox)
 - [flask](#flask)
 - [game](#game)
+- [gamedev](#gamedev)
 - [git](#git)
 - [github](#github)
 - [golang](#golang)
@@ -175,6 +176,10 @@
 - [nyaadevs/nyaa](https://github.com/nyaadevs/nyaa) - Bittorrent software for cats
 
 ## game 
+
+- [FunkinCrew/Funkin](https://github.com/FunkinCrew/Funkin) - A rhythm game made with HaxeFlixel
+
+## gamedev 
 
 - [FunkinCrew/Funkin](https://github.com/FunkinCrew/Funkin) - A rhythm game made with HaxeFlixel
 
