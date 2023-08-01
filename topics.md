@@ -216,7 +216,7 @@
 
 ## ipfs 
 
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IPFS reimagined.
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - Bytes, distributed.
 
 ## language 
 
@@ -259,7 +259,7 @@
 
 ## mobile 
 
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IPFS reimagined.
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - Bytes, distributed.
 
 ## mongodb 
 
@@ -287,6 +287,9 @@
 
 ## others 
 
+- [hohMiyazawa/Automail](https://github.com/hohMiyazawa/Automail) - An enhancement collection for anilist.co
+- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
+- [nix-community/nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [maintainer=@figsoda]
 - [Equim-chan/mjai-reviewer](https://github.com/Equim-chan/mjai-reviewer) - 🔍🀄️ Review mahjong game log with mjai-compatible mahjong AI.
 - [butaixianran/Stable-Diffusion-Webui-Civitai-Helper](https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper) - Stable Diffusion Webui Extension for Civitai, to manage your model much more easily.
 - [zerolfx/copilot.el](https://github.com/zerolfx/copilot.el) - An unofficial Copilot plugin for Emacs.
@@ -418,7 +421,7 @@
 ## rust 
 
 - [jordanisaacs/kernel-module-flake](https://github.com/jordanisaacs/kernel-module-flake) - Nix flake for linux kernel module development with rust support
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IPFS reimagined.
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - Bytes, distributed.
 - [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
 - [revoltchat/backend](https://github.com/revoltchat/backend) - Monorepo for Revolt backend services.
