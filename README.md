@@ -117,6 +117,7 @@
 
 ## JavaScript 
 
+- [hohMiyazawa/Automail](https://github.com/hohMiyazawa/Automail) - An enhancement collection for anilist.co
 - [tsoding/jai-wasm](https://github.com/tsoding/jai-wasm) - Jai WebAssembly Proof-of-Concept
 - [FooSoft/yomichan](https://github.com/FooSoft/yomichan) - Japanese pop-up dictionary extension for Chrome and Firefox.
 - [Unic-X/Anilist-Post-Ext](https://github.com/Unic-X/Anilist-Post-Ext) - Maa 😢🙏
@@ -196,6 +197,7 @@
 
 ## Python 
 
+- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [butaixianran/Stable-Diffusion-Webui-Civitai-Helper](https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper) - Stable Diffusion Webui Extension for Civitai, to manage your model much more easily.
 - [imLinguin/nile](https://github.com/imLinguin/nile) - Unofficial Amazon Games client
 - [ros-visualization/python_qt_binding](https://github.com/ros-visualization/python_qt_binding) - 
@@ -215,6 +217,7 @@
 
 ## Rust 
 
+- [nix-community/nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [maintainer=@figsoda]
 - [Equim-chan/mjai-reviewer](https://github.com/Equim-chan/mjai-reviewer) - 🔍🀄️ Review mahjong game log with mjai-compatible mahjong AI.
 - [Equim-chan/Mortal](https://github.com/Equim-chan/Mortal) - 🚀🀄️ A fast and strong AI for riichi mahjong, powered by deep reinforcement learning.
 - [IvarWithoutBones/nes-emu](https://github.com/IvarWithoutBones/nes-emu) - 
@@ -223,7 +226,7 @@
 - [d12bb/AdventOfCode](https://github.com/d12bb/AdventOfCode) - My solutions to Advent of Code
 - [TBS1996/speki](https://github.com/TBS1996/speki) - flashcard app in your terminal
 - [HigherOrderCO/Kind](https://github.com/HigherOrderCO/Kind) - A next-gen functional language
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IPFS reimagined.
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - Bytes, distributed.
 - [fedimint/fedimint](https://github.com/fedimint/fedimint) - Federated E-Cash Mint
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
 - [konradsz/igrep](https://github.com/konradsz/igrep) - Interactive Grep
