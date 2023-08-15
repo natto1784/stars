@@ -57,6 +57,7 @@
 - [reverse-engineering](#reverse-engineering)
 - [rust](#rust)
 - [security](#security)
+- [shell](#shell)
 - [telegram](#telegram)
 - [vim](#vim)
 - [web](#web)
@@ -74,7 +75,7 @@
 
 ## automation 
 
-- [ugly-bastard/discord_spem](https://github.com/ugly-bastard/discord_spem) - Using selenium to automate some spamming on discord with your user account
+- [ugly-custard/discord_spem](https://github.com/ugly-custard/discord_spem) - Using selenium to automate some spamming on discord with your user account
 
 ## bitcoin 
 
@@ -144,7 +145,7 @@
 - [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - List of open-source Discord API Libraries
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client. Please use Rust for new bots
-- [ugly-bastard/discord_spem](https://github.com/ugly-bastard/discord_spem) - Using selenium to automate some spamming on discord with your user account
+- [ugly-custard/discord_spem](https://github.com/ugly-custard/discord_spem) - Using selenium to automate some spamming on discord with your user account
 
 ## docker 
 
@@ -210,6 +211,7 @@
 
 ## haskell 
 
+- [lyokha/nginx-haskell-module](https://github.com/lyokha/nginx-haskell-module) - A comprehensive web framework aimed at building custom Haskell handlers for the Nginx Web Server
 - [cdepillabout/stacklock2nix](https://github.com/cdepillabout/stacklock2nix) - Easily build a Haskell project from a stack.yaml.lock file with Nix
 - [hercules-ci/hercules-ci-agent](https://github.com/hercules-ci/hercules-ci-agent) - https://hercules-ci.com build and deployment agent
 - [AtifChy/xmonad](https://github.com/AtifChy/xmonad) - my Xmonad configuration
@@ -287,6 +289,10 @@
 
 ## others 
 
+- [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
+- [nammayatri/nammayatri](https://github.com/nammayatri/nammayatri) - A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
+- [illustris/nixfs](https://github.com/illustris/nixfs) - 
+- [ezKEa/aagl-gtk-on-nix](https://github.com/ezKEa/aagl-gtk-on-nix) - Run an-anime-game-launcher GTK version on Nix/NixOS!
 - [hohMiyazawa/Automail](https://github.com/hohMiyazawa/Automail) - An enhancement collection for anilist.co
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [nix-community/nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [maintainer=@figsoda]
@@ -408,7 +414,7 @@
 - [nyaadevs/nyaa](https://github.com/nyaadevs/nyaa) - Bittorrent software for cats
 - [EricJMarti/inventory-hunter](https://github.com/EricJMarti/inventory-hunter) - ⚡️ Get notified as soon as your next CPU, GPU, or game console is in stock
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
-- [ugly-bastard/discord_spem](https://github.com/ugly-bastard/discord_spem) - Using selenium to automate some spamming on discord with your user account
+- [ugly-custard/discord_spem](https://github.com/ugly-custard/discord_spem) - Using selenium to automate some spamming on discord with your user account
 
 ## python3 
 
@@ -435,6 +441,10 @@
 
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
 
+## shell 
+
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development
+
 ## telegram 
 
 - [EricJMarti/inventory-hunter](https://github.com/EricJMarti/inventory-hunter) - ⚡️ Get notified as soon as your next CPU, GPU, or game console is in stock
@@ -447,6 +457,7 @@
 
 ## web 
 
+- [lyokha/nginx-haskell-module](https://github.com/lyokha/nginx-haskell-module) - A comprehensive web framework aimed at building custom Haskell handlers for the Nginx Web Server
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 
 ## windows 
