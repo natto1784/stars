@@ -35,6 +35,8 @@
 
 ## C 
 
+- [illustris/nixfs](https://github.com/illustris/nixfs) - 
+- [lyokha/nginx-haskell-module](https://github.com/lyokha/nginx-haskell-module) - A comprehensive web framework aimed at building custom Haskell handlers for the Nginx Web Server
 - [vnmakarov/mir](https://github.com/vnmakarov/mir) - A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR
 - [google/rune](https://github.com/google/rune) - Rune is a programming language developed to test ideas for improving security and efficiency.
 - [AZO234/NP2kai](https://github.com/AZO234/NP2kai) - Neko Project II kai
@@ -105,6 +107,7 @@
 
 ## Haskell 
 
+- [nammayatri/nammayatri](https://github.com/nammayatri/nammayatri) - A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
 - [swarm-game/swarm](https://github.com/swarm-game/swarm) - Resource gathering + programming game
 - [nasyxx/NasyMoe](https://github.com/nasyxx/NasyMoe) - My personal website source.
 - [hercules-ci/hercules-ci-agent](https://github.com/hercules-ci/hercules-ci-agent) - https://hercules-ci.com build and deployment agent
@@ -144,6 +147,8 @@
 
 ## Nix 
 
+- [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development
+- [ezKEa/aagl-gtk-on-nix](https://github.com/ezKEa/aagl-gtk-on-nix) - Run an-anime-game-launcher GTK version on Nix/NixOS!
 - [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK
 - [NotAShelf/neovim-flake](https://github.com/NotAShelf/neovim-flake) - A highly modular, extensible and distro agonistic neovim distribution for the nix package manager.
 - [aakropotkin/floco](https://github.com/aakropotkin/floco) - Using Nix to put NPM and Yarn in a coffin
@@ -175,6 +180,7 @@
 
 ## Others 
 
+- [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [nikolas/github-drama](https://github.com/nikolas/github-drama) - "This conversation has been locked and limited to collaborators."
 - [cdanis/sandia-public-license](https://github.com/cdanis/sandia-public-license) - This is not a license of honor. No highly esteemed copyright statement is written here.
 - [nix-chads/nix-propaganda](https://github.com/nix-chads/nix-propaganda) - 
@@ -213,7 +219,7 @@
 - [EricJMarti/inventory-hunter](https://github.com/EricJMarti/inventory-hunter) - ⚡️ Get notified as soon as your next CPU, GPU, or game console is in stock
 - [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - List of open-source Discord API Libraries
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
-- [ugly-bastard/discord_spem](https://github.com/ugly-bastard/discord_spem) - Using selenium to automate some spamming on discord with your user account
+- [ugly-custard/discord_spem](https://github.com/ugly-custard/discord_spem) - Using selenium to automate some spamming on discord with your user account
 
 ## Rust 
 
