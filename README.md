@@ -58,6 +58,9 @@
 
 ## C++ 
 
+- [kmc-jp/n64-emu](https://github.com/kmc-jp/n64-emu) - Nintendo 64 emulator 🌏
+- [sashi0034/GBEmu](https://github.com/sashi0034/GBEmu) - Game Boy emulator written in C++
+- [ericniebler/range-v3](https://github.com/ericniebler/range-v3) - Range library for C++14/17/20, basis for C++20's std::ranges
 - [atom-robotics-lab/MR-Robot_Hardware](https://github.com/atom-robotics-lab/MR-Robot_Hardware) - 
 - [IvarWithoutBones/er-utils](https://github.com/IvarWithoutBones/er-utils) - A Elden Ring save file editor for the command line
 - [Ipotrick/Daxa](https://github.com/Ipotrick/Daxa) - Daxa is my opinionated gpu api library.
@@ -73,6 +76,7 @@
 
 ## CSS 
 
+- [prashantrahul141/Conway-s-Game-of-Life](https://github.com/prashantrahul141/Conway-s-Game-of-Life) - Conway's Game of Life.
 - [mut-ex/minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox) - A minimal, yet functional Firefox userChrome configuration.
 
 ## D 
@@ -102,6 +106,7 @@
 
 ## HTML 
 
+- [yoshuawuyts/html](https://github.com/yoshuawuyts/html) - Type-safe HTML support for Rust
 - [n8willis/opentype-shaping-documents](https://github.com/n8willis/opentype-shaping-documents) - Documentation of OpenType shaping behavior
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 
@@ -147,6 +152,8 @@
 
 ## Nix 
 
+- [oxalica/nocargo](https://github.com/oxalica/nocargo) - [alpha] Build Rust crates with Nix Build System.
+- [NorfairKing/nix-does-not-guarantee-reproducibility](https://github.com/NorfairKing/nix-does-not-guarantee-reproducibility) - 
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development
 - [ezKEa/aagl-gtk-on-nix](https://github.com/ezKEa/aagl-gtk-on-nix) - Run an-anime-game-launcher GTK version on Nix/NixOS!
 - [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK
@@ -223,6 +230,7 @@
 
 ## Rust 
 
+- [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 - [nix-community/nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [maintainer=@figsoda]
 - [Equim-chan/mjai-reviewer](https://github.com/Equim-chan/mjai-reviewer) - 🔍🀄️ Review mahjong game log with mjai-compatible mahjong AI.
 - [Equim-chan/Mortal](https://github.com/Equim-chan/Mortal) - 🚀🀄️ A fast and strong AI for riichi mahjong, powered by deep reinforcement learning.
@@ -250,7 +258,7 @@
 
 ## Shell 
 
-- [CommitteeOfZero/multiversal-coz-linux-patcher](https://github.com/CommitteeOfZero/multiversal-coz-linux-patcher) - whose OS runs whose games
+- [CommitteeOfZero/polyversal-coz-linux-patcher](https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher) - whose OS runs whose games
 - [robinhuiser/concourse-arm64](https://github.com/robinhuiser/concourse-arm64) - 
 - [eshrh/ames](https://github.com/eshrh/ames) - Anki Media Extractor Script: Update anki cards with desktop audio and image on gnu/linux
 - [hoodie/shell-uglify](https://github.com/hoodie/shell-uglify) - Uglify Shellcode
@@ -268,7 +276,7 @@
 
 ## TypeScript 
 
-- [ad044/lainTSX](https://github.com/ad044/lainTSX) - WebGL implementation of the Serial Experiments Lain PSX game
+- [ad044/LainTSX](https://github.com/ad044/LainTSX) - WebGL implementation of the Serial Experiments Lain PSX game
 
 ## Vala 
 
