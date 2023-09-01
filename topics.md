@@ -17,6 +17,7 @@
 - [config](#config)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
+- [css](#css)
 - [cybersecurity](#cybersecurity)
 - [deep-learning](#deep-learning)
 - [devops](#devops)
@@ -33,6 +34,7 @@
 - [golang](#golang)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
+- [html](#html)
 - [ipfs](#ipfs)
 - [language](#language)
 - [latex](#latex)
@@ -125,6 +127,10 @@
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client. Please use Rust for new bots
 
+## css 
+
+- [yoshuawuyts/html](https://github.com/yoshuawuyts/html) - Type-safe HTML support for Rust
+
 ## cybersecurity 
 
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
@@ -216,6 +222,10 @@
 - [hercules-ci/hercules-ci-agent](https://github.com/hercules-ci/hercules-ci-agent) - https://hercules-ci.com build and deployment agent
 - [AtifChy/xmonad](https://github.com/AtifChy/xmonad) - my Xmonad configuration
 
+## html 
+
+- [yoshuawuyts/html](https://github.com/yoshuawuyts/html) - Type-safe HTML support for Rust
+
 ## ipfs 
 
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - Bytes, distributed.
@@ -289,6 +299,12 @@
 
 ## others 
 
+- [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
+- [kmc-jp/n64-emu](https://github.com/kmc-jp/n64-emu) - Nintendo 64 emulator 🌏
+- [sashi0034/GBEmu](https://github.com/sashi0034/GBEmu) - Game Boy emulator written in C++
+- [ericniebler/range-v3](https://github.com/ericniebler/range-v3) - Range library for C++14/17/20, basis for C++20's std::ranges
+- [prashantrahul141/Conway-s-Game-of-Life](https://github.com/prashantrahul141/Conway-s-Game-of-Life) - Conway's Game of Life.
+- [NorfairKing/nix-does-not-guarantee-reproducibility](https://github.com/NorfairKing/nix-does-not-guarantee-reproducibility) - 
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [nammayatri/nammayatri](https://github.com/nammayatri/nammayatri) - A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
 - [illustris/nixfs](https://github.com/illustris/nixfs) - 
@@ -302,7 +318,7 @@
 - [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK
 - [IvarWithoutBones/nes-emu](https://github.com/IvarWithoutBones/nes-emu) - 
 - [nix-community/mineflake](https://github.com/nix-community/mineflake) - Declarative Minecraft server in NixOS [maintainer=@cofob]
-- [CommitteeOfZero/multiversal-coz-linux-patcher](https://github.com/CommitteeOfZero/multiversal-coz-linux-patcher) - whose OS runs whose games
+- [CommitteeOfZero/polyversal-coz-linux-patcher](https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher) - whose OS runs whose games
 - [saimoomedits/eww-widgets](https://github.com/saimoomedits/eww-widgets) - my eww widgets!
 - [aakropotkin/floco](https://github.com/aakropotkin/floco) - Using Nix to put NPM and Yarn in a coffin
 - [ShamylZakariya/Platformer](https://github.com/ShamylZakariya/Platformer) - Learning webgpu in rust by making a simple platformer
@@ -360,7 +376,7 @@
 - [dovydasgulbinas/indiachan](https://github.com/dovydasgulbinas/indiachan) - Source Code For site indiachan.com
 - [dramforever/nix-dram](https://github.com/dramforever/nix-dram) - Nix Flakes with a modified frontend, by dramforever
 - [khilansantoki/malloc](https://github.com/khilansantoki/malloc) - Segregated free list memory allocator written in C
-- [ad044/lainTSX](https://github.com/ad044/lainTSX) - WebGL implementation of the Serial Experiments Lain PSX game
+- [ad044/LainTSX](https://github.com/ad044/LainTSX) - WebGL implementation of the Serial Experiments Lain PSX game
 - [fufexan/dotfiles](https://github.com/fufexan/dotfiles) - NixOS system config & Home-Manager user config
 - [DreymaR/BigBagKbdTrixXKB](https://github.com/DreymaR/BigBagKbdTrixXKB) - "DreymaR's Big Bag of Keyboard Tricks" for *nix with XKB
 - [cirkku/nixosMemes](https://github.com/cirkku/nixosMemes) - Various "memes" involving Nix/NixOS; most likely also involving anime girls.
@@ -426,6 +442,8 @@
 
 ## rust 
 
+- [oxalica/nocargo](https://github.com/oxalica/nocargo) - [alpha] Build Rust crates with Nix Build System.
+- [yoshuawuyts/html](https://github.com/yoshuawuyts/html) - Type-safe HTML support for Rust
 - [jordanisaacs/kernel-module-flake](https://github.com/jordanisaacs/kernel-module-flake) - Nix flake for linux kernel module development with rust support
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - Bytes, distributed.
 - [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
