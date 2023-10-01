@@ -20,17 +20,20 @@
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [deep-learning](#deep-learning)
+- [deno](#deno)
 - [devops](#devops)
 - [discord](#discord)
 - [docker](#docker)
 - [dotnet](#dotnet)
 - [emacs](#emacs)
+- [emulator](#emulator)
 - [firefox](#firefox)
 - [flask](#flask)
 - [game](#game)
 - [gamedev](#gamedev)
 - [git](#git)
 - [github](#github)
+- [go](#go)
 - [golang](#golang)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
@@ -140,6 +143,10 @@
 
 - [Equim-chan/Mortal](https://github.com/Equim-chan/Mortal) - 🚀🀄️ A fast and strong AI for riichi mahjong, powered by deep reinforcement learning.
 
+## deno 
+
+- [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
+
 ## devops 
 
 - [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
@@ -174,6 +181,10 @@
 - [jwiegley/use-package](https://github.com/jwiegley/use-package) - A use-package declaration for simplifying your .emacs
 - [bobbbay/dotfiles](https://github.com/bobbbay/dotfiles) - ~. Nix all the things!
 
+## emulator 
+
+- [takahirox/riscv-rust](https://github.com/takahirox/riscv-rust) - RISC-V processor emulator written in Rust+WASM
+
 ## firefox 
 
 - [FooSoft/yomichan](https://github.com/FooSoft/yomichan) - Japanese pop-up dictionary extension for Chrome and Firefox.
@@ -198,6 +209,10 @@
 ## github 
 
 - [nikolas/github-drama](https://github.com/nikolas/github-drama) - "This conversation has been locked and limited to collaborators."
+
+## go 
+
+- [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 
 ## golang 
 
@@ -250,7 +265,7 @@
 - [imLinguin/nile](https://github.com/imLinguin/nile) - Unofficial Amazon Games client
 - [vnmakarov/mir](https://github.com/vnmakarov/mir) - A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR
 - [IvarWithoutBones/er-utils](https://github.com/IvarWithoutBones/er-utils) - A Elden Ring save file editor for the command line
-- [CuBeRJAN/astOS](https://github.com/CuBeRJAN/astOS) - An immutable Arch based GNU+Linux distribution utilizing BTRFS snapshots
+- [lambdanil/astOS](https://github.com/lambdanil/astOS) - An immutable Arch based GNU+Linux distribution utilizing BTRFS snapshots
 - [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player of today! (its the future now) :city_sunrise:
 - [nbfc-linux/nbfc-linux](https://github.com/nbfc-linux/nbfc-linux) - NoteBook FanControl ported to Linux
 - [Acizza/anup](https://github.com/Acizza/anup) - An anime tracker for AniList featuring a TUI.
@@ -299,6 +314,8 @@
 
 ## others 
 
+- [jsmolka/gba-tests](https://github.com/jsmolka/gba-tests) - A collection of Game Boy Advance tests.
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 - [kmc-jp/n64-emu](https://github.com/kmc-jp/n64-emu) - Nintendo 64 emulator 🌏
 - [sashi0034/GBEmu](https://github.com/sashi0034/GBEmu) - Game Boy emulator written in C++
@@ -442,6 +459,7 @@
 
 ## rust 
 
+- [takahirox/riscv-rust](https://github.com/takahirox/riscv-rust) - RISC-V processor emulator written in Rust+WASM
 - [oxalica/nocargo](https://github.com/oxalica/nocargo) - [alpha] Build Rust crates with Nix Build System.
 - [yoshuawuyts/html](https://github.com/yoshuawuyts/html) - Type-safe HTML support for Rust
 - [jordanisaacs/kernel-module-flake](https://github.com/jordanisaacs/kernel-module-flake) - Nix flake for linux kernel module development with rust support
@@ -452,7 +470,6 @@
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
-- [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 - [Acizza/anup](https://github.com/Acizza/anup) - An anime tracker for AniList featuring a TUI.
 
 ## security 
