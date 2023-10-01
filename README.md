@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Assembly](#assembly)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -18,6 +19,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Nim](#nim)
 - [Nix](#nix)
 - [Others](#others)
@@ -32,6 +34,10 @@
 - [TypeScript](#typescript)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
+
+## Assembly 
+
+- [jsmolka/gba-tests](https://github.com/jsmolka/gba-tests) - A collection of Game Boy Advance tests.
 
 ## C 
 
@@ -109,7 +115,6 @@
 
 - [yoshuawuyts/html](https://github.com/yoshuawuyts/html) - Type-safe HTML support for Rust
 - [n8willis/opentype-shaping-documents](https://github.com/n8willis/opentype-shaping-documents) - Documentation of OpenType shaping behavior
-- [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 
 ## Haskell 
 
@@ -146,6 +151,10 @@
 - [occivink/mpv-scripts](https://github.com/occivink/mpv-scripts) - Various scripts for mpv
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) - take your scientific notes :pencil2: in Neovim
+
+## MDX 
+
+- [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 
 ## Nim 
 
@@ -188,6 +197,7 @@
 
 ## Others 
 
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [nikolas/github-drama](https://github.com/nikolas/github-drama) - "This conversation has been locked and limited to collaborators."
 - [cdanis/sandia-public-license](https://github.com/cdanis/sandia-public-license) - This is not a license of honor. No highly esteemed copyright statement is written here.
@@ -218,7 +228,7 @@
 - [DangerOnTheRanger/maniwani](https://github.com/DangerOnTheRanger/maniwani) - Imageboard software for the 21st century
 - [jslay88/qbt_migrate](https://github.com/jslay88/qbt_migrate) - Migrate qBittorrent downloads
 - [risicle/nix-build-task](https://github.com/risicle/nix-build-task) - A reusable Concourse task for building Nix derivations
-- [CuBeRJAN/astOS](https://github.com/CuBeRJAN/astOS) - An immutable Arch based GNU+Linux distribution utilizing BTRFS snapshots
+- [lambdanil/astOS](https://github.com/lambdanil/astOS) - An immutable Arch based GNU+Linux distribution utilizing BTRFS snapshots
 - [Unic-X/Kala-Bot](https://github.com/Unic-X/Kala-Bot) - 
 - [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player of today! (its the future now) :city_sunrise:
 - [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
@@ -231,6 +241,7 @@
 
 ## Rust 
 
+- [takahirox/riscv-rust](https://github.com/takahirox/riscv-rust) - RISC-V processor emulator written in Rust+WASM
 - [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 - [nix-community/nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [maintainer=@figsoda]
 - [Equim-chan/mjai-reviewer](https://github.com/Equim-chan/mjai-reviewer) - 🔍🀄️ Review mahjong game log with mjai-compatible mahjong AI.
