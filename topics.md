@@ -8,6 +8,7 @@
 - [ai](#ai)
 - [api](#api)
 - [automation](#automation)
+- [awesome-list](#awesome-list)
 - [bitcoin](#bitcoin)
 - [bot](#bot)
 - [c](#c)
@@ -45,6 +46,7 @@
 - [linux](#linux)
 - [lua](#lua)
 - [macos](#macos)
+- [minecraft](#minecraft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
 - [music](#music)
@@ -82,6 +84,10 @@
 
 - [ugly-custard/discord_spem](https://github.com/ugly-custard/discord_spem) - Using selenium to automate some spamming on discord with your user account
 
+## awesome-list 
+
+- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - (Hacktoberfest) List of open-source Discord API Libraries
+
 ## bitcoin 
 
 - [fedimint/fedimint](https://github.com/fedimint/fedimint) - Federated E-Cash Mint
@@ -89,7 +95,7 @@
 ## bot 
 
 - [EricJMarti/inventory-hunter](https://github.com/EricJMarti/inventory-hunter) - ⚡️ Get notified as soon as your next CPU, GPU, or game console is in stock
-- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - List of open-source Discord API Libraries
+- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - (Hacktoberfest) List of open-source Discord API Libraries
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 
 ## c 
@@ -156,7 +162,7 @@
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [andweeb/presence.nvim](https://github.com/andweeb/presence.nvim) - Discord Rich Presence for Neovim
 - [EricJMarti/inventory-hunter](https://github.com/EricJMarti/inventory-hunter) - ⚡️ Get notified as soon as your next CPU, GPU, or game console is in stock
-- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - List of open-source Discord API Libraries
+- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - (Hacktoberfest) List of open-source Discord API Libraries
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client. Please use Rust for new bots
 - [ugly-custard/discord_spem](https://github.com/ugly-custard/discord_spem) - Using selenium to automate some spamming on discord with your user account
@@ -227,8 +233,9 @@
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
-- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - List of open-source Discord API Libraries
+- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - (Hacktoberfest) List of open-source Discord API Libraries
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
+- [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 
 ## haskell 
 
@@ -257,7 +264,7 @@
 ## library 
 
 - [xaerru/NVelox](https://github.com/xaerru/NVelox) - A system for writing plugins for Neovim in different programming languages using dynamic libraries.
-- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - List of open-source Discord API Libraries
+- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - (Hacktoberfest) List of open-source Discord API Libraries
 - [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client. Please use Rust for new bots
 
 ## linux 
@@ -283,6 +290,10 @@
 ## macos 
 
 - [vnmakarov/mir](https://github.com/vnmakarov/mir) - A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR
+
+## minecraft 
+
+- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 
 ## mobile 
 
@@ -327,7 +338,6 @@
 - [illustris/nixfs](https://github.com/illustris/nixfs) - 
 - [ezKEa/aagl-gtk-on-nix](https://github.com/ezKEa/aagl-gtk-on-nix) - Run an-anime-game-launcher GTK version on Nix/NixOS!
 - [hohMiyazawa/Automail](https://github.com/hohMiyazawa/Automail) - An enhancement collection for anilist.co
-- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [nix-community/nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [maintainer=@figsoda]
 - [Equim-chan/mjai-reviewer](https://github.com/Equim-chan/mjai-reviewer) - 🔍🀄️ Review mahjong game log with mjai-compatible mahjong AI.
 - [butaixianran/Stable-Diffusion-Webui-Civitai-Helper](https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper) - Stable Diffusion Webui Extension for Civitai, to manage your model much more easily.
