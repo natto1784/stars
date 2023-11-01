@@ -86,7 +86,7 @@
 
 ## awesome-list 
 
-- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - (Hacktoberfest) List of open-source Discord API Libraries
+- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - List of open-source Discord API Libraries
 
 ## bitcoin 
 
@@ -95,7 +95,7 @@
 ## bot 
 
 - [EricJMarti/inventory-hunter](https://github.com/EricJMarti/inventory-hunter) - ⚡️ Get notified as soon as your next CPU, GPU, or game console is in stock
-- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - (Hacktoberfest) List of open-source Discord API Libraries
+- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - List of open-source Discord API Libraries
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 
 ## c 
@@ -162,7 +162,7 @@
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [andweeb/presence.nvim](https://github.com/andweeb/presence.nvim) - Discord Rich Presence for Neovim
 - [EricJMarti/inventory-hunter](https://github.com/EricJMarti/inventory-hunter) - ⚡️ Get notified as soon as your next CPU, GPU, or game console is in stock
-- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - (Hacktoberfest) List of open-source Discord API Libraries
+- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - List of open-source Discord API Libraries
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client. Please use Rust for new bots
 - [ugly-custard/discord_spem](https://github.com/ugly-custard/discord_spem) - Using selenium to automate some spamming on discord with your user account
@@ -227,14 +227,16 @@
 ## hacktoberfest 
 
 - [tsoding/turd](https://github.com/tsoding/turd) - Turing Machine in D
+- [cdepillabout/stacklock2nix](https://github.com/cdepillabout/stacklock2nix) - Easily build a Haskell project from a stack.yaml.lock file with Nix
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 - [NobbZ/nixos-config](https://github.com/NobbZ/nixos-config) - 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
-- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - (Hacktoberfest) List of open-source Discord API Libraries
+- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - List of open-source Discord API Libraries
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
+- [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client. Please use Rust for new bots
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 
 ## haskell 
@@ -264,7 +266,7 @@
 ## library 
 
 - [xaerru/NVelox](https://github.com/xaerru/NVelox) - A system for writing plugins for Neovim in different programming languages using dynamic libraries.
-- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - (Hacktoberfest) List of open-source Discord API Libraries
+- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - List of open-source Discord API Libraries
 - [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client. Please use Rust for new bots
 
 ## linux 
@@ -366,7 +368,7 @@
 - [swarm-game/swarm](https://github.com/swarm-game/swarm) - Resource gathering + programming game
 - [nasyxx/NasyMoe](https://github.com/nasyxx/NasyMoe) - My personal website source.
 - [collinarnett/stable-diffusion-nix](https://github.com/collinarnett/stable-diffusion-nix) - JupyterLab Flake for Stable Diffusion
-- [Ipotrick/Daxa](https://github.com/Ipotrick/Daxa) - Daxa is my opinionated gpu api library.
+- [Ipotrick/Daxa](https://github.com/Ipotrick/Daxa) - Daxa is a convenient, simple and modern gpu abstraction build on vulkan
 - [jslay88/qbt_migrate](https://github.com/jslay88/qbt_migrate) - Migrate qBittorrent downloads
 - [vrom911/vrom911.github.io](https://github.com/vrom911/vrom911.github.io) - :cherry_blossom: My personal website
 - [Gerschtli/nix-config](https://github.com/Gerschtli/nix-config) - A collection of my system configs and dotfiles
@@ -384,7 +386,7 @@
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix
 - [manateelazycat/aweshell](https://github.com/manateelazycat/aweshell) - Awesome shell extension base on eshell with wonderful features!
 - [cdanis/sandia-public-license](https://github.com/cdanis/sandia-public-license) - This is not a license of honor. No highly esteemed copyright statement is written here.
-- [infinisil/nixus](https://github.com/infinisil/nixus) - 
+- [infinisil/nixus](https://github.com/infinisil/nixus) - Experimental deployment tool supporting multi-host abstractions
 - [Unic-X/Anilist-Post-Ext](https://github.com/Unic-X/Anilist-Post-Ext) - Maa 😢🙏
 - [Unic-X/Kala-Bot](https://github.com/Unic-X/Kala-Bot) - 
 - [wbolster/emacs-evil-colemak-basics](https://github.com/wbolster/emacs-evil-colemak-basics) - Emacs package with basic key rebindings for evil-mode with the Colemak keyboard layout
