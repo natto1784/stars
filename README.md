@@ -26,6 +26,7 @@
 - [PHP](#php)
 - [Perl](#perl)
 - [Processing](#processing)
+- [PureScript](#purescript)
 - [Python](#python)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -118,7 +119,6 @@
 
 ## Haskell 
 
-- [nammayatri/nammayatri](https://github.com/nammayatri/nammayatri) - A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
 - [swarm-game/swarm](https://github.com/swarm-game/swarm) - Resource gathering + programming game
 - [nasyxx/NasyMoe](https://github.com/nasyxx/NasyMoe) - My personal website source.
 - [hercules-ci/hercules-ci-agent](https://github.com/hercules-ci/hercules-ci-agent) - https://hercules-ci.com build and deployment agent
@@ -219,6 +219,10 @@
 
 - [vrom911/vrom911.github.io](https://github.com/vrom911/vrom911.github.io) - :cherry_blossom: My personal website
 
+## PureScript 
+
+- [nammayatri/nammayatri](https://github.com/nammayatri/nammayatri) - A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
+
 ## Python 
 
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
@@ -230,7 +234,7 @@
 - [risicle/nix-build-task](https://github.com/risicle/nix-build-task) - A reusable Concourse task for building Nix derivations
 - [lambdanil/astOS](https://github.com/lambdanil/astOS) - An immutable Arch based GNU+Linux distribution utilizing BTRFS snapshots
 - [Unic-X/Kala-Bot](https://github.com/Unic-X/Kala-Bot) - 
-- [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player of today! (its the future now) :city_sunrise:
+- [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player of today! :city_sunrise:
 - [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
 - [ligh7s/smoked-salmon](https://github.com/ligh7s/smoked-salmon) - salmon uploading tools~
 - [nyaadevs/nyaa](https://github.com/nyaadevs/nyaa) - Bittorrent software for cats
@@ -245,14 +249,14 @@
 - [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 - [nix-community/nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [maintainer=@figsoda]
 - [Equim-chan/mjai-reviewer](https://github.com/Equim-chan/mjai-reviewer) - 🔍🀄️ Review mahjong game log with mjai-compatible mahjong AI.
-- [Equim-chan/Mortal](https://github.com/Equim-chan/Mortal) - 🚀🀄️ A fast and strong AI for riichi mahjong, powered by deep reinforcement learning.
+- [Equim-chan/Mortal](https://github.com/Equim-chan/Mortal) - 🚀🀄️ A fast and strong AI for riichi mahjong, powered by Rust and deep reinforcement learning.
 - [IvarWithoutBones/nes-emu](https://github.com/IvarWithoutBones/nes-emu) - 
 - [nix-community/mineflake](https://github.com/nix-community/mineflake) - Declarative Minecraft server in NixOS [maintainer=@cofob]
 - [ShamylZakariya/Platformer](https://github.com/ShamylZakariya/Platformer) - Learning webgpu in rust by making a simple platformer
 - [d12bb/AdventOfCode](https://github.com/d12bb/AdventOfCode) - My solutions to Advent of Code
 - [TBS1996/speki](https://github.com/TBS1996/speki) - flashcard app in your terminal
 - [HigherOrderCO/Kind](https://github.com/HigherOrderCO/Kind) - A next-gen functional language
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - Bytes, distributed.
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - Sync anywhere
 - [fedimint/fedimint](https://github.com/fedimint/fedimint) - Federated E-Cash Mint
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
 - [konradsz/igrep](https://github.com/konradsz/igrep) - Interactive Grep
