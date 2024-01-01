@@ -358,7 +358,7 @@
 - [swarm-game/swarm](https://github.com/swarm-game/swarm) - Resource gathering + programming game
 - [nasyxx/NasyMoe](https://github.com/nasyxx/NasyMoe) - My personal website source.
 - [collinarnett/stable-diffusion-nix](https://github.com/collinarnett/stable-diffusion-nix) - JupyterLab Flake for Stable Diffusion
-- [Ipotrick/Daxa](https://github.com/Ipotrick/Daxa) - Daxa is a convenient, simple and modern gpu abstraction build on vulkan
+- [Ipotrick/Daxa](https://github.com/Ipotrick/Daxa) - Daxa is a convenient, simple and modern gpu abstraction built on vulkan
 - [jslay88/qbt_migrate](https://github.com/jslay88/qbt_migrate) - Migrate qBittorrent downloads
 - [vrom911/vrom911.github.io](https://github.com/vrom911/vrom911.github.io) - :cherry_blossom: My personal website
 - [Gerschtli/nix-config](https://github.com/Gerschtli/nix-config) - A collection of my system configs and dotfiles
