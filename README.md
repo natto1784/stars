@@ -51,7 +51,7 @@
 - [nbfc-linux/nbfc-linux](https://github.com/nbfc-linux/nbfc-linux) - NoteBook FanControl ported to Linux
 - [xaerru/NVelox](https://github.com/xaerru/NVelox) - A system for writing plugins for Neovim in different programming languages using dynamic libraries.
 - [khilansantoki/malloc](https://github.com/khilansantoki/malloc) - Segregated free list memory allocator written in C
-- [djpohly/dwl](https://github.com/djpohly/dwl) - dwm for Wayland
+- [djpohly/dwl](https://github.com/djpohly/dwl) - dwm for Wayland - ARCHIVE: development has moved to Codeberg
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
 - [pwmt/zathura-cb](https://github.com/pwmt/zathura-cb) - Comic book support for zathura
