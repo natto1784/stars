@@ -408,7 +408,7 @@
 - [gamedevtech/X11OpenGLWindow](https://github.com/gamedevtech/X11OpenGLWindow) - Tutorial on creating an X11 OpenGL window
 - [yonilevy/noiseclean](https://github.com/yonilevy/noiseclean) - A simple bash script to remove audio noise from audio and videos files.
 - [MentalOutlaw/deploygentoo](https://github.com/MentalOutlaw/deploygentoo) - deploys a gentoo machine
-- [djpohly/dwl](https://github.com/djpohly/dwl) - dwm for Wayland
+- [djpohly/dwl](https://github.com/djpohly/dwl) - dwm for Wayland - ARCHIVE: development has moved to Codeberg
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [pwmt/zathura-cb](https://github.com/pwmt/zathura-cb) - Comic book support for zathura
 - [goose121/initify](https://github.com/goose121/initify) - Convert systemd services to OpenRC init-scripts
