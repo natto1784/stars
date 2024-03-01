@@ -7,6 +7,7 @@
 
 - [ai](#ai)
 - [api](#api)
+- [archlinux](#archlinux)
 - [automation](#automation)
 - [awesome-list](#awesome-list)
 - [bitcoin](#bitcoin)
@@ -78,6 +79,10 @@
 - [revoltchat/backend](https://github.com/revoltchat/backend) - Monorepo for Revolt backend services.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
+
+## archlinux 
+
+- [lambdanil/astOS](https://github.com/lambdanil/astOS) - An immutable Arch based GNU+Linux distribution utilizing BTRFS snapshots
 
 ## automation 
 
@@ -177,7 +182,7 @@
 
 ## emacs 
 
-- [willbush/system](https://github.com/willbush/system) - The system configuration of a professional yak shaver
+- [willbush/system](https://github.com/willbush/system) - Trying to build the perfect system
 - [wbolster/emacs-direnv](https://github.com/wbolster/emacs-direnv) - direnv integration for emacs
 - [tecosaur/engrave-faces](https://github.com/tecosaur/engrave-faces) - Mirror of https://git.tecosaur.net/tec/engrave-faces
 - [SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el) - A simple competitive programming IDE
@@ -301,7 +306,7 @@
 
 ## neovim 
 
-- [NotAShelf/neovim-flake](https://github.com/NotAShelf/neovim-flake) - A highly modular, extensible and distro agonistic neovim distribution for the nix package manager.
+- [NotAShelf/neovim-flake](https://github.com/NotAShelf/neovim-flake) - A highly modular, extensible and distro-agnostic Neovim distribution for Nix/NixOS.
 - [andweeb/presence.nvim](https://github.com/andweeb/presence.nvim) - Discord Rich Presence for Neovim
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [xaerru/NVelox](https://github.com/xaerru/NVelox) - A system for writing plugins for Neovim in different programming languages using dynamic libraries.
@@ -336,7 +341,7 @@
 - [copilot-emacs/copilot.el](https://github.com/copilot-emacs/copilot.el) - An unofficial Copilot plugin for Emacs.
 - [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK
 - [IvarWithoutBones/nes-emu](https://github.com/IvarWithoutBones/nes-emu) - 
-- [nix-community/mineflake](https://github.com/nix-community/mineflake) - Declarative Minecraft server in NixOS [maintainer=@cofob]
+- [nix-community/mineflake](https://github.com/nix-community/mineflake) - Declarative Minecraft server in NixOS [unmaintained]
 - [CommitteeOfZero/polyversal-coz-linux-patcher](https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher) - whose OS runs whose games
 - [saimoomedits/eww-widgets](https://github.com/saimoomedits/eww-widgets) - my eww widgets!
 - [aakropotkin/floco](https://github.com/aakropotkin/floco) - Using Nix to put NPM and Yarn in a coffin
