@@ -325,7 +325,7 @@
 - [jsmolka/gba-tests](https://github.com/jsmolka/gba-tests) - A collection of Game Boy Advance tests.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
-- [kmc-jp/n64-emu](https://github.com/kmc-jp/n64-emu) - Nintendo 64 emulator 🌏
+- [kmc-jp/n64-emu](https://github.com/kmc-jp/n64-emu) - Low-level Nintendo64 emulator 🌏
 - [sashi0034/GBEmu](https://github.com/sashi0034/GBEmu) - Game Boy emulator written in C++
 - [ericniebler/range-v3](https://github.com/ericniebler/range-v3) - Range library for C++14/17/20, basis for C++20's std::ranges
 - [prashantrahul141/Conway-s-Game-of-Life](https://github.com/prashantrahul141/Conway-s-Game-of-Life) - Conway's Game of Life.
