@@ -42,6 +42,7 @@
 
 ## C 
 
+- [SiriusNEO/fscape](https://github.com/SiriusNEO/fscape) - Escape from file system! A game based on a simple FUSE filesystem.
 - [um4ng-tiw/Peer-to-Peer-Socket-C](https://github.com/um4ng-tiw/Peer-to-Peer-Socket-C) - A simple peer to peer chat program developed using Socket programming in C.
 - [illustris/nixfs](https://github.com/illustris/nixfs) - 
 - [lyokha/nginx-haskell-module](https://github.com/lyokha/nginx-haskell-module) - A comprehensive web framework aimed at building custom Haskell handlers for the Nginx Web Server
