@@ -168,7 +168,7 @@
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development
 - [ezKEa/aagl-gtk-on-nix](https://github.com/ezKEa/aagl-gtk-on-nix) - Run an-anime-game-launcher GTK version on Nix/NixOS!
 - [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK
-- [NotAShelf/neovim-flake](https://github.com/NotAShelf/neovim-flake) - A highly modular, extensible and distro-agnostic Neovim distribution for Nix/NixOS.
+- [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - A highly modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS.
 - [aakropotkin/floco](https://github.com/aakropotkin/floco) - Using Nix to put NPM and Yarn in a coffin
 - [nix-community/nixpkgs.lib](https://github.com/nix-community/nixpkgs.lib) - nixpkgs lib for cheap instantiation [maintainer=@github-action] (with initial help from @blaggacao)
 - [srid/flake-root](https://github.com/srid/flake-root) - A `flake-parts` module for finding your way to the project root directory
@@ -259,7 +259,7 @@
 - [d12bb/AdventOfCode](https://github.com/d12bb/AdventOfCode) - My solutions to Advent of Code
 - [TBS1996/speki](https://github.com/TBS1996/speki) - flashcard app in your terminal
 - [HigherOrderCO/Kind](https://github.com/HigherOrderCO/Kind) - A next-gen functional language
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - Sync anywhere
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - Bytes, distributed
 - [fedimint/fedimint](https://github.com/fedimint/fedimint) - Federated E-Cash Mint
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
 - [konradsz/igrep](https://github.com/konradsz/igrep) - Interactive Grep
