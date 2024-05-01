@@ -37,6 +37,7 @@
 - [github](#github)
 - [go](#go)
 - [golang](#golang)
+- [hacking-tools](#hacking-tools)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [html](#html)
@@ -229,6 +230,10 @@
 
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 
+## hacking-tools 
+
+- [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
+
 ## hacktoberfest 
 
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
@@ -313,7 +318,7 @@
 
 ## neovim 
 
-- [NotAShelf/neovim-flake](https://github.com/NotAShelf/neovim-flake) - A highly modular, extensible and distro-agnostic Neovim distribution for Nix/NixOS.
+- [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - A highly modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS.
 - [andweeb/presence.nvim](https://github.com/andweeb/presence.nvim) - Discord Rich Presence for Neovim
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [xaerru/NVelox](https://github.com/xaerru/NVelox) - A system for writing plugins for Neovim in different programming languages using dynamic libraries.
@@ -483,7 +488,7 @@
 - [oxalica/nocargo](https://github.com/oxalica/nocargo) - [alpha] Build Rust crates with Nix Build System.
 - [yoshuawuyts/html](https://github.com/yoshuawuyts/html) - Type-safe HTML support for Rust
 - [jordanisaacs/kernel-module-flake](https://github.com/jordanisaacs/kernel-module-flake) - Nix flake for linux kernel module development with rust support
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - Sync anywhere
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - Bytes, distributed
 - [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
 - [revoltchat/backend](https://github.com/revoltchat/backend) - Monorepo for Revolt backend services.
