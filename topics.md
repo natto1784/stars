@@ -349,6 +349,7 @@
 
 ## others 
 
+- [eliemichel/WebGPU-Cpp](https://github.com/eliemichel/WebGPU-Cpp) - A single-file zero-overhead C++ idiomatic wrapper for WebGPU native
 - [latorc/MahjongCopilot](https://github.com/latorc/MahjongCopilot) - 雀魂游戏实时 AI 指导 / In-game step-by-step AI Assistant for Maj-soul
 - [SiriusNEO/fscape](https://github.com/SiriusNEO/fscape) - Escape from file system! A game based on a simple FUSE filesystem.
 - [jsmolka/gba-tests](https://github.com/jsmolka/gba-tests) - A collection of Game Boy Advance tests.
@@ -426,12 +427,12 @@
 - [ParadoxSpiral/libmpv-rs](https://github.com/ParadoxSpiral/libmpv-rs) - A libmpv abstraction written in rust that's easy to use and provides the ability to read next to all video and audio codecs.
 - [dovydasgulbinas/indiachan](https://github.com/dovydasgulbinas/indiachan) - Source Code For site indiachan.com
 - [dramforever/nix-dram](https://github.com/dramforever/nix-dram) - Nix Flakes with a modified frontend, by dramforever
-- [khilansantoki/malloc](https://github.com/khilansantoki/malloc) - Segregated free list memory allocator written in C
+- [cyaanide/malloc](https://github.com/cyaanide/malloc) - Segregated free list memory allocator written in C
 - [ad044/LainTSX](https://github.com/ad044/LainTSX) - WebGL implementation of the Serial Experiments Lain PSX game
 - [DreymaR/BigBagKbdTrixXKB](https://github.com/DreymaR/BigBagKbdTrixXKB) - "DreymaR's Big Bag of Keyboard Tricks" for *nix with XKB
 - [cirkku/nixosMemes](https://github.com/cirkku/nixosMemes) - Various "memes" involving Nix/NixOS; most likely also involving anime girls.
 - [qt/qtstyleplugins](https://github.com/qt/qtstyleplugins) - Additional style plugins for Qt
-- [khilansantoki/brainfuck](https://github.com/khilansantoki/brainfuck) - brainfuck
+- [cyaanide/brainfuck](https://github.com/cyaanide/brainfuck) - brainfuck
 - [radumirea/ncmpcpp-with-cover-art](https://github.com/radumirea/ncmpcpp-with-cover-art) - 
 - [atomheartother/wanwan-html5](https://github.com/atomheartother/wanwan-html5) - HTML5 version of the flash animation WAN WAN INTENSIFIES.swf
 - [ligh7s/smoked-salmon](https://github.com/ligh7s/smoked-salmon) - salmon uploading tools~
