@@ -18,6 +18,7 @@
 - [Haxe](#haxe)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [LLVM](#llvm)
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Nim](#nim)
@@ -51,7 +52,7 @@
 - [AZO234/NP2kai](https://github.com/AZO234/NP2kai) - Neko Project II kai
 - [nbfc-linux/nbfc-linux](https://github.com/nbfc-linux/nbfc-linux) - NoteBook FanControl ported to Linux
 - [xaerru/NVelox](https://github.com/xaerru/NVelox) - A system for writing plugins for Neovim in different programming languages using dynamic libraries.
-- [khilansantoki/malloc](https://github.com/khilansantoki/malloc) - Segregated free list memory allocator written in C
+- [cyaanide/malloc](https://github.com/cyaanide/malloc) - Segregated free list memory allocator written in C
 - [djpohly/dwl](https://github.com/djpohly/dwl) - dwm for Wayland - ARCHIVE: development has moved to Codeberg
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
@@ -67,6 +68,7 @@
 
 ## C++ 
 
+- [eliemichel/WebGPU-Cpp](https://github.com/eliemichel/WebGPU-Cpp) - A single-file zero-overhead C++ idiomatic wrapper for WebGPU native
 - [kmc-jp/n64-emu](https://github.com/kmc-jp/n64-emu) - Low-level Nintendo64 emulator 🌏
 - [sashi0034/GBEmu](https://github.com/sashi0034/GBEmu) - Game Boy emulator written in C++
 - [ericniebler/range-v3](https://github.com/ericniebler/range-v3) - Range library for C++14/17/20, basis for C++20's std::ranges
@@ -140,10 +142,15 @@
 - [chjj/tty.js](https://github.com/chjj/tty.js) - A terminal for your browser, using node/express/socket.io
 - [dovydasgulbinas/indiachan](https://github.com/dovydasgulbinas/indiachan) - Source Code For site indiachan.com
 - [atomheartother/wanwan-html5](https://github.com/atomheartother/wanwan-html5) - HTML5 version of the flash animation WAN WAN INTENSIFIES.swf
+- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - List of open-source Discord API Libraries
 
 ## Jupyter Notebook 
 
 - [collinarnett/stable-diffusion-nix](https://github.com/collinarnett/stable-diffusion-nix) - JupyterLab Flake for Stable Diffusion
+
+## LLVM 
+
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
 ## Lua 
 
@@ -198,7 +205,6 @@
 
 ## Others 
 
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [nikolas/github-drama](https://github.com/nikolas/github-drama) - "This conversation has been locked and limited to collaborators."
 - [cdanis/sandia-public-license](https://github.com/cdanis/sandia-public-license) - This is not a license of honor. No highly esteemed copyright statement is written here.
@@ -241,7 +247,6 @@
 - [ligh7s/smoked-salmon](https://github.com/ligh7s/smoked-salmon) - salmon uploading tools~
 - [nyaadevs/nyaa](https://github.com/nyaadevs/nyaa) - Bittorrent software for cats
 - [EricJMarti/inventory-hunter](https://github.com/EricJMarti/inventory-hunter) - ⚡️ Get notified as soon as your next CPU, GPU, or game console is in stock
-- [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - List of open-source Discord API Libraries
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [ugly-custard/discord_spem](https://github.com/ugly-custard/discord_spem) - Using selenium to automate some spamming on discord with your user account
 
@@ -270,7 +275,7 @@
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [ParadoxSpiral/libmpv-rs](https://github.com/ParadoxSpiral/libmpv-rs) - A libmpv abstraction written in rust that's easy to use and provides the ability to read next to all video and audio codecs.
 - [Acizza/anup](https://github.com/Acizza/anup) - An anime tracker for AniList featuring a TUI.
-- [khilansantoki/brainfuck](https://github.com/khilansantoki/brainfuck) - brainfuck
+- [cyaanide/brainfuck](https://github.com/cyaanide/brainfuck) - brainfuck
 
 ## SCSS 
 
