@@ -35,7 +35,6 @@
 - [game](#game)
 - [gamedev](#gamedev)
 - [git](#git)
-- [github](#github)
 - [go](#go)
 - [golang](#golang)
 - [hacking-tools](#hacking-tools)
@@ -229,10 +228,6 @@
 
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 
-## github 
-
-- [nikolas/github-drama](https://github.com/nikolas/github-drama) - "This conversation has been locked and limited to collaborators."
-
 ## go 
 
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
@@ -349,6 +344,7 @@
 
 ## others 
 
+- [BentonEdmondson/knock](https://github.com/BentonEdmondson/knock) - Convert ACSM files to PDFs/EPUBs with one command on Linux
 - [eliemichel/WebGPU-Cpp](https://github.com/eliemichel/WebGPU-Cpp) - A single-file zero-overhead C++ idiomatic wrapper for WebGPU native
 - [latorc/MahjongCopilot](https://github.com/latorc/MahjongCopilot) - 雀魂游戏实时 AI 指导 / In-game step-by-step AI Assistant for Maj-soul
 - [SiriusNEO/fscape](https://github.com/SiriusNEO/fscape) - Escape from file system! A game based on a simple FUSE filesystem.
@@ -380,7 +376,7 @@
 - [ros-visualization/python_qt_binding](https://github.com/ros-visualization/python_qt_binding) - 
 - [srid/flake-root](https://github.com/srid/flake-root) - A `flake-parts` module for finding your way to the project root directory
 - [nix-community/emacs-overlay](https://github.com/nix-community/emacs-overlay) - Bleeding edge emacs overlay [maintainer=@adisbladis]
-- [d12bb/AdventOfCode](https://github.com/d12bb/AdventOfCode) - My solutions to Advent of Code
+- [diktomat/AdventOfCode](https://github.com/diktomat/AdventOfCode) - My solutions to Advent of Code
 - [atom-robotics-lab/MR-Robot_Hardware](https://github.com/atom-robotics-lab/MR-Robot_Hardware) - 
 - [lopsided98/nix-ros-overlay](https://github.com/lopsided98/nix-ros-overlay) - ROS overlay for the Nix package manager
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
