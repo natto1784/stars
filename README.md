@@ -170,6 +170,7 @@
 
 ## Nix 
 
+- [BentonEdmondson/knock](https://github.com/BentonEdmondson/knock) - Convert ACSM files to PDFs/EPUBs with one command on Linux
 - [oxalica/nocargo](https://github.com/oxalica/nocargo) - [alpha] Build Rust crates with Nix Build System.
 - [NorfairKing/nix-does-not-guarantee-reproducibility](https://github.com/NorfairKing/nix-does-not-guarantee-reproducibility) - 
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development
@@ -206,7 +207,6 @@
 ## Others 
 
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
-- [nikolas/github-drama](https://github.com/nikolas/github-drama) - "This conversation has been locked and limited to collaborators."
 - [cdanis/sandia-public-license](https://github.com/cdanis/sandia-public-license) - This is not a license of honor. No highly esteemed copyright statement is written here.
 - [nix-chads/nix-propaganda](https://github.com/nix-chads/nix-propaganda) - 
 - [cirkku/nixosMemes](https://github.com/cirkku/nixosMemes) - Various "memes" involving Nix/NixOS; most likely also involving anime girls.
@@ -262,7 +262,7 @@
 - [IvarWithoutBones/nes-emu](https://github.com/IvarWithoutBones/nes-emu) - 
 - [nix-community/mineflake](https://github.com/nix-community/mineflake) - Declarative Minecraft server in NixOS [unmaintained]
 - [ShamylZakariya/Platformer](https://github.com/ShamylZakariya/Platformer) - Learning webgpu in rust by making a simple platformer
-- [d12bb/AdventOfCode](https://github.com/d12bb/AdventOfCode) - My solutions to Advent of Code
+- [diktomat/AdventOfCode](https://github.com/diktomat/AdventOfCode) - My solutions to Advent of Code
 - [TBS1996/speki](https://github.com/TBS1996/speki) - flashcard app in your terminal
 - [HigherOrderCO/Kind1](https://github.com/HigherOrderCO/Kind1) - A next-gen functional language
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - A toolkit for building distributed applications
