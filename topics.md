@@ -385,7 +385,7 @@
 - [tsoding/jai-wasm](https://github.com/tsoding/jai-wasm) - Jai WebAssembly Proof-of-Concept
 - [RaitoBezarius/nixos-home](https://github.com/RaitoBezarius/nixos-home) - My NixOS home configuration
 - [TBS1996/speki](https://github.com/TBS1996/speki) - flashcard app in your terminal
-- [HigherOrderCO/Kind1](https://github.com/HigherOrderCO/Kind1) - A next-gen functional language
+- [HigherOrderCO/Kind1](https://github.com/HigherOrderCO/Kind1) - A modern proof language
 - [swarm-game/swarm](https://github.com/swarm-game/swarm) - Resource gathering + programming game
 - [nasyxx/NasyMoe](https://github.com/nasyxx/NasyMoe) - My personal website source.
 - [collinarnett/stable-diffusion-nix](https://github.com/collinarnett/stable-diffusion-nix) - JupyterLab Flake for Stable Diffusion
