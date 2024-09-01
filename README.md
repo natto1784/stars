@@ -171,7 +171,6 @@
 
 ## Nix 
 
-- [BentonEdmondson/knock](https://github.com/BentonEdmondson/knock) - Convert ACSM files to PDFs/EPUBs with one command on Linux
 - [oxalica/nocargo](https://github.com/oxalica/nocargo) - [alpha] Build Rust crates with Nix Build System.
 - [NorfairKing/nix-does-not-guarantee-reproducibility](https://github.com/NorfairKing/nix-does-not-guarantee-reproducibility) - 
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development
