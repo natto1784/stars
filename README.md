@@ -100,7 +100,7 @@
 - [willbush/system](https://github.com/willbush/system) - Trying to build the perfect system
 - [wbolster/emacs-direnv](https://github.com/wbolster/emacs-direnv) - direnv integration for emacs
 - [radian-software/selectrum](https://github.com/radian-software/selectrum) - 🔔 Better solution for incremental narrowing in Emacs.
-- [tecosaur/engrave-faces](https://github.com/tecosaur/engrave-faces) - Mirror of https://git.tecosaur.net/tec/engrave-faces
+- [tecosaur/engrave-faces](https://github.com/tecosaur/engrave-faces) - Mirror of https://code.tecosaur.net/tec/engrave-faces
 - [manateelazycat/aweshell](https://github.com/manateelazycat/aweshell) - Awesome shell extension base on eshell with wonderful features!
 - [SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el) - A simple competitive programming IDE
 - [emacs-tree-sitter/tree-sitter-langs](https://github.com/emacs-tree-sitter/tree-sitter-langs) - Language bundle for Emacs's tree-sitter package
@@ -287,7 +287,7 @@
 - [robinhuiser/concourse-arm64](https://github.com/robinhuiser/concourse-arm64) - 
 - [eshrh/ames](https://github.com/eshrh/ames) - Anki Media Extractor Script: Update anki cards with desktop audio and image on gnu/linux
 - [hoodie/shell-uglify](https://github.com/hoodie/shell-uglify) - Uglify Shellcode
-- [Unic-X/old-dotfiles](https://github.com/Unic-X/old-dotfiles) - Personal dotfiles
+- [Unic-X/dotfiles](https://github.com/Unic-X/dotfiles) - Personal dotfiles
 - [DreymaR/BigBagKbdTrixXKB](https://github.com/DreymaR/BigBagKbdTrixXKB) - "DreymaR's Big Bag of Keyboard Tricks" for *nix with XKB
 - [radumirea/ncmpcpp-with-cover-art](https://github.com/radumirea/ncmpcpp-with-cover-art) - 
 - [yonilevy/noiseclean](https://github.com/yonilevy/noiseclean) - A simple bash script to remove audio noise from audio and videos files.
