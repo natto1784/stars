@@ -205,7 +205,7 @@
 
 - [willbush/system](https://github.com/willbush/system) - Trying to build the perfect system
 - [wbolster/emacs-direnv](https://github.com/wbolster/emacs-direnv) - direnv integration for emacs
-- [tecosaur/engrave-faces](https://github.com/tecosaur/engrave-faces) - Mirror of https://git.tecosaur.net/tec/engrave-faces
+- [tecosaur/engrave-faces](https://github.com/tecosaur/engrave-faces) - Mirror of https://code.tecosaur.net/tec/engrave-faces
 - [SidharthArya/comp-ide.el](https://github.com/SidharthArya/comp-ide.el) - A simple competitive programming IDE
 - [emacs-tree-sitter/tree-sitter-langs](https://github.com/emacs-tree-sitter/tree-sitter-langs) - Language bundle for Emacs's tree-sitter package
 - [abo-abo/swiper](https://github.com/abo-abo/swiper) - Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man!
@@ -419,7 +419,7 @@
 - [Unic-X/Kala-Bot](https://github.com/Unic-X/Kala-Bot) - 
 - [wbolster/emacs-evil-colemak-basics](https://github.com/wbolster/emacs-evil-colemak-basics) - Emacs package with basic key rebindings for evil-mode with the Colemak keyboard layout
 - [hoodie/shell-uglify](https://github.com/hoodie/shell-uglify) - Uglify Shellcode
-- [Unic-X/old-dotfiles](https://github.com/Unic-X/old-dotfiles) - Personal dotfiles
+- [Unic-X/dotfiles](https://github.com/Unic-X/dotfiles) - Personal dotfiles
 - [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
 - [fufexan/osu.nix](https://github.com/fufexan/osu.nix) - DEPRECATED osu! on Nix
 - [Fanael/rainbow-delimiters](https://github.com/Fanael/rainbow-delimiters) - Emacs rainbow delimiters mode
