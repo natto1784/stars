@@ -42,6 +42,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [html](#html)
+- [image-processing](#image-processing)
 - [javascript](#javascript)
 - [language](#language)
 - [latex](#latex)
@@ -259,7 +260,6 @@
 - [NobbZ/nixos-config](https://github.com/NobbZ/nixos-config) - 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
-- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) - List of open-source Discord API Libraries
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client. Please use Rust for new bots
@@ -274,6 +274,10 @@
 ## html 
 
 - [yoshuawuyts/html](https://github.com/yoshuawuyts/html) - Type-safe HTML support for Rust
+
+## image-processing 
+
+- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 
 ## javascript 
 
@@ -353,7 +357,7 @@
 
 ## others 
 
-- [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, EA App, Amazon Games,
+- [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest UMU/GE-Proton and Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, EA App, Amazon Games, itch
 - [xiaoniuhululu/rust_milk_tea_os](https://github.com/xiaoniuhululu/rust_milk_tea_os) - 
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel
 - [eliemichel/WebGPU-Cpp](https://github.com/eliemichel/WebGPU-Cpp) - A single-file zero-overhead C++ idiomatic wrapper for WebGPU native
