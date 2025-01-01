@@ -70,6 +70,7 @@
 - [reverse-engineering](#reverse-engineering)
 - [rust](#rust)
 - [security](#security)
+- [security-tools](#security-tools)
 - [shell](#shell)
 - [telegram](#telegram)
 - [vim](#vim)
@@ -431,7 +432,6 @@
 - [Fanael/rainbow-delimiters](https://github.com/Fanael/rainbow-delimiters) - Emacs rainbow delimiters mode
 - [nix-chads/nix-propaganda](https://github.com/nix-chads/nix-propaganda) - 
 - [gytis-ivaskevicius/nixfiles](https://github.com/gytis-ivaskevicius/nixfiles) - My kick-ass NixOS systems configurations!!
-- [MagicRB/dotfiles](https://github.com/MagicRB/dotfiles) - 
 - [tomdionysus/foaas](https://github.com/tomdionysus/foaas) - FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
 - [chjj/tty.js](https://github.com/chjj/tty.js) - A terminal for your browser, using node/express/socket.io
 - [ParadoxSpiral/libmpv-rs](https://github.com/ParadoxSpiral/libmpv-rs) - A libmpv abstraction written in rust that's easy to use and provides the ability to read next to all video and audio codecs.
@@ -529,6 +529,10 @@
 - [Acizza/anup](https://github.com/Acizza/anup) - An anime tracker for AniList featuring a TUI.
 
 ## security 
+
+- [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
+
+## security-tools 
 
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
 
