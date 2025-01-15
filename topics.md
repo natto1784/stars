@@ -177,6 +177,7 @@
 
 ## discord 
 
+- [pufferpanel/pufferpanel](https://github.com/pufferpanel/pufferpanel) - PufferPanel is an open source game server management panel, designed for both small networks and personal use
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [andweeb/presence.nvim](https://github.com/andweeb/presence.nvim) - Discord Rich Presence for Neovim
 - [EricJMarti/inventory-hunter](https://github.com/EricJMarti/inventory-hunter) - ⚡️ Get notified as soon as your next CPU, GPU, or game console is in stock
@@ -245,6 +246,7 @@
 
 ## golang 
 
+- [pufferpanel/pufferpanel](https://github.com/pufferpanel/pufferpanel) - PufferPanel is an open source game server management panel, designed for both small networks and personal use
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 
 ## hacking-tools 
@@ -274,6 +276,7 @@
 
 ## html 
 
+- [pufferpanel/pufferpanel](https://github.com/pufferpanel/pufferpanel) - PufferPanel is an open source game server management panel, designed for both small networks and personal use
 - [yoshuawuyts/html](https://github.com/yoshuawuyts/html) - Type-safe HTML support for Rust
 
 ## image-processing 
@@ -326,6 +329,7 @@
 
 ## minecraft 
 
+- [pufferpanel/pufferpanel](https://github.com/pufferpanel/pufferpanel) - PufferPanel is an open source game server management panel, designed for both small networks and personal use
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 
 ## mongodb 
