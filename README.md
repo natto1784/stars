@@ -54,7 +54,7 @@
 - [xaerru/NVelox](https://github.com/xaerru/NVelox) - A system for writing plugins for Neovim in different programming languages using dynamic libraries.
 - [cyaanide/malloc](https://github.com/cyaanide/malloc) - Segregated free list memory allocator written in C
 - [djpohly/dwl](https://github.com/djpohly/dwl) - dwm for Wayland - ARCHIVE: development has moved to Codeberg
-- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
+- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a powerful, open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for web developers, graphic designers, and researchers, it o
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
 - [pwmt/zathura-cb](https://github.com/pwmt/zathura-cb) - Comic book support for zathura
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
@@ -81,7 +81,7 @@
 - [gamedevtech/X11OpenGLWindow](https://github.com/gamedevtech/X11OpenGLWindow) - Tutorial on creating an X11 OpenGL window
 - [audacious-media-player/audacious](https://github.com/audacious-media-player/audacious) - A lightweight and versatile audio player
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
-- [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client. Please use Rust for new bots
+- [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client.
 - [yourWaifu/is-your-waifu-legal](https://github.com/yourWaifu/is-your-waifu-legal) - Check if your waifu is legal or not
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 
