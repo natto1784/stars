@@ -370,7 +370,6 @@
 - [SiriusNEO/fscape](https://github.com/SiriusNEO/fscape) - Escape from file system! A game based on a simple FUSE filesystem.
 - [jsmolka/gba-tests](https://github.com/jsmolka/gba-tests) - A collection of Game Boy Advance tests.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-- [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 - [kmc-jp/n64-emu](https://github.com/kmc-jp/n64-emu) - Low-level Nintendo64 emulator 🌏
 - [sashi0034/GBEmu](https://github.com/sashi0034/GBEmu) - Game Boy emulator written in C++
 - [prashantrahul141/Conway-s-Game-of-Life](https://github.com/prashantrahul141/Conway-s-Game-of-Life) - Conway's Game of Life.
@@ -520,6 +519,7 @@
 
 - [fluencelabs/nox](https://github.com/fluencelabs/nox) - Rust implementation of the Fluence network peer
 - [takahirox/riscv-rust](https://github.com/takahirox/riscv-rust) - RISC-V processor emulator written in Rust+WASM
+- [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 - [oxalica/nocargo](https://github.com/oxalica/nocargo) - [alpha] Build Rust crates with Nix Build System.
 - [yoshuawuyts/html](https://github.com/yoshuawuyts/html) - Type-safe HTML support for Rust
 - [jordanisaacs/kernel-module-flake](https://github.com/jordanisaacs/kernel-module-flake) - Nix flake for linux kernel module development with rust support
