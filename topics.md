@@ -388,7 +388,7 @@
 - [nix-community/mineflake](https://github.com/nix-community/mineflake) - Declarative Minecraft server in NixOS [unmaintained]
 - [CommitteeOfZero/polyversal-coz-linux-patcher](https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher) - whose OS runs whose games
 - [saimoomedits/eww-widgets](https://github.com/saimoomedits/eww-widgets) - my eww widgets!
-- [aakropotkin/floco](https://github.com/aakropotkin/floco) - Using Nix to put NPM and Yarn in a coffin
+- [alex-ameen/floco](https://github.com/alex-ameen/floco) - Using Nix to put NPM and Yarn in a coffin
 - [ShamylZakariya/Platformer](https://github.com/ShamylZakariya/Platformer) - Learning webgpu in rust by making a simple platformer
 - [nix-community/nixpkgs.lib](https://github.com/nix-community/nixpkgs.lib) - nixpkgs lib for cheap instantiation [maintainer=@github-action] (with initial help from @blaggacao)
 - [ros-visualization/python_qt_binding](https://github.com/ros-visualization/python_qt_binding) - 
