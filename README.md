@@ -87,7 +87,7 @@
 
 ## CSS 
 
-- [prashantrahul141/Conway-s-Game-of-Life](https://github.com/prashantrahul141/Conway-s-Game-of-Life) - Conway's Game of Life.
+- [prashantrahul141/game-of-life](https://github.com/prashantrahul141/game-of-life) - Conway's Game of Life.
 - [mut-ex/minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox) - A minimal, yet functional Firefox userChrome configuration.
 
 ## D 
