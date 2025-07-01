@@ -54,7 +54,7 @@
 - [xaerru/NVelox](https://github.com/xaerru/NVelox) - A system for writing plugins for Neovim in different programming languages using dynamic libraries.
 - [cyaanide/malloc](https://github.com/cyaanide/malloc) - Segregated free list memory allocator written in C
 - [djpohly/dwl](https://github.com/djpohly/dwl) - dwm for Wayland - ARCHIVE: development has moved to Codeberg
-- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a powerful, open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for web developers, graphic designers, and researchers, it o
+- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scr
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
 - [pwmt/zathura-cb](https://github.com/pwmt/zathura-cb) - Comic book support for zathura
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
