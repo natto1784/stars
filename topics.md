@@ -442,7 +442,7 @@
 - [dovydasgulbinas/indiachan](https://github.com/dovydasgulbinas/indiachan) - Source Code For site indiachan.com
 - [dramforever/nix-dram](https://github.com/dramforever/nix-dram) - Nix Flakes with a modified frontend, by dramforever
 - [cyaanide/malloc](https://github.com/cyaanide/malloc) - Segregated free list memory allocator written in C
-- [ad044/LainTSX](https://github.com/ad044/LainTSX) - WebGL implementation of the Serial Experiments Lain PSX game
+- [ad044/lainTSX](https://github.com/ad044/lainTSX) - WebGL implementation of the Serial Experiments Lain PSX game
 - [DreymaR/BigBagKbdTrixXKB](https://github.com/DreymaR/BigBagKbdTrixXKB) - "DreymaR's Big Bag of Keyboard Tricks" for *nix with XKB
 - [cirkku/nixosMemes](https://github.com/cirkku/nixosMemes) - Various "memes" involving Nix/NixOS; most likely also involving anime girls.
 - [qt/qtstyleplugins](https://github.com/qt/qtstyleplugins) - Additional style plugins for Qt
