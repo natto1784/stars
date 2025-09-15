@@ -35,6 +35,7 @@
 - [flask](#flask)
 - [game](#game)
 - [gamedev](#gamedev)
+- [gaming](#gaming)
 - [git](#git)
 - [go](#go)
 - [golang](#golang)
@@ -139,6 +140,7 @@
 
 ## compiler 
 
+- [prashantrahul141/evelin](https://github.com/prashantrahul141/evelin) - Evelin is a general purpose, statically typed, compiled language using the QBE backend with C FFI support.
 - [vnmakarov/mir](https://github.com/vnmakarov/mir) - A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR
 
 ## config 
@@ -235,6 +237,11 @@
 ## gamedev 
 
 - [FunkinCrew/Funkin](https://github.com/FunkinCrew/Funkin) - A rhythm game made with HaxeFlixel
+
+## gaming 
+
+- [imLinguin/nile](https://github.com/imLinguin/nile) - Unofficial Amazon Games client
+- [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix
 
 ## git 
 
@@ -422,7 +429,6 @@
 - [AZO234/NP2kai](https://github.com/AZO234/NP2kai) - Neko Project II kai
 - [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
 - [eshrh/ames](https://github.com/eshrh/ames) - Anki Media Extractor Script: Update anki cards with desktop audio and image on gnu/linux
-- [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix
 - [manateelazycat/aweshell](https://github.com/manateelazycat/aweshell) - Awesome shell extension base on eshell with wonderful features!
 - [cdanis/sandia-public-license](https://github.com/cdanis/sandia-public-license) - This is not a license of honor. No highly esteemed copyright statement is written here.
 - [infinisil/nixus](https://github.com/infinisil/nixus) - Experimental deployment tool supporting multi-host abstractions
@@ -518,9 +524,10 @@
 
 ## rust 
 
+- [prashantrahul141/evelin](https://github.com/prashantrahul141/evelin) - Evelin is a general purpose, statically typed, compiled language using the QBE backend with C FFI support.
 - [fluencelabs/nox](https://github.com/fluencelabs/nox) - Rust implementation of the Fluence network peer
 - [takahirox/riscv-rust](https://github.com/takahirox/riscv-rust) - RISC-V processor emulator written in Rust+WASM
-- [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
+- [Rust-GPU/rust-cuda](https://github.com/Rust-GPU/rust-cuda) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 - [oxalica/nocargo](https://github.com/oxalica/nocargo) - [alpha] Build Rust crates with Nix Build System.
 - [yoshuawuyts/html](https://github.com/yoshuawuyts/html) - Type-safe HTML support for Rust
 - [jordanisaacs/kernel-module-flake](https://github.com/jordanisaacs/kernel-module-flake) - Nix flake for linux kernel module development with rust support
