@@ -74,7 +74,7 @@
 - [ericniebler/range-v3](https://github.com/ericniebler/range-v3) - Range library for C++14/17/20, basis for C++20's std::ranges
 - [atom-robotics-lab/MR-Robot_Hardware](https://github.com/atom-robotics-lab/MR-Robot_Hardware) - 
 - [IvarWithoutBones/er-utils](https://github.com/IvarWithoutBones/er-utils) - A Elden Ring save file editor for the command line
-- [Ipotrick/Daxa](https://github.com/Ipotrick/Daxa) - Daxa is a convenient, simple and modern gpu abstraction built on vulkan
+- [Ipotrick/Daxa](https://github.com/Ipotrick/Daxa) - Daxa is a convenient, simple and modern gpu api built on vulkan
 - [renatoGarcia/icecream-cpp](https://github.com/renatoGarcia/icecream-cpp) - 🍦 Never use cout/printf to debug again
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [qt/qtstyleplugins](https://github.com/qt/qtstyleplugins) - Additional style plugins for Qt
@@ -188,7 +188,6 @@
 - [lopsided98/nix-ros-overlay](https://github.com/lopsided98/nix-ros-overlay) - ROS overlay for the Nix package manager
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
 - [cdepillabout/stacklock2nix](https://github.com/cdepillabout/stacklock2nix) - Easily build a Haskell project from a stack.yaml.lock file with Nix
-- [jordanisaacs/kernel-module-flake](https://github.com/jordanisaacs/kernel-module-flake) - Nix flake for linux kernel module development with rust support
 - [RaitoBezarius/nixos-home](https://github.com/RaitoBezarius/nixos-home) - My NixOS home configuration
 - [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
 - [Gerschtli/nix-config](https://github.com/Gerschtli/nix-config) - A collection of my system configs and dotfiles
@@ -241,6 +240,7 @@
 - [butaixianran/Stable-Diffusion-Webui-Civitai-Helper](https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper) - Stable Diffusion Webui Extension for Civitai, to manage your model much more easily.
 - [imLinguin/nile](https://github.com/imLinguin/nile) - Unofficial Amazon Games client
 - [ros-visualization/python_qt_binding](https://github.com/ros-visualization/python_qt_binding) - 
+- [jordanisaacs/kernel-development-flake](https://github.com/jordanisaacs/kernel-development-flake) - Nix flake for linux kernel development (formerly kernel-module-flake)
 - [DangerOnTheRanger/maniwani](https://github.com/DangerOnTheRanger/maniwani) - Imageboard software for the 21st century
 - [jslay88/qbt_migrate](https://github.com/jslay88/qbt_migrate) - Migrate qBittorrent downloads
 - [risicle/nix-build-task](https://github.com/risicle/nix-build-task) - A reusable Concourse task for building Nix derivations
