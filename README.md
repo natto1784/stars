@@ -70,7 +70,7 @@
 
 - [eliemichel/WebGPU-Cpp](https://github.com/eliemichel/WebGPU-Cpp) - A single-file zero-overhead C++ idiomatic wrapper for WebGPU native
 - [kmc-jp/n64-emu](https://github.com/kmc-jp/n64-emu) - Low-level Nintendo64 emulator 🌏
-- [sashi0034/GBEmu](https://github.com/sashi0034/GBEmu) - Game Boy emulator written in C++
+- [sashi0034/GBEmu](https://github.com/sashi0034/GBEmu) - Emulator for game hardware with Z80 CPU
 - [ericniebler/range-v3](https://github.com/ericniebler/range-v3) - Range library for C++14/17/20, basis for C++20's std::ranges
 - [atom-robotics-lab/MR-Robot_Hardware](https://github.com/atom-robotics-lab/MR-Robot_Hardware) - 
 - [IvarWithoutBones/er-utils](https://github.com/IvarWithoutBones/er-utils) - A Elden Ring save file editor for the command line
@@ -96,6 +96,7 @@
 
 ## Emacs Lisp 
 
+- [jeff-phil/comingle.el](https://github.com/jeff-phil/comingle.el) - (Co)mingling of Codeium and Emacs
 - [copilot-emacs/copilot.el](https://github.com/copilot-emacs/copilot.el) - An unofficial Copilot plugin for Emacs.
 - [willbush/system](https://github.com/willbush/system) - Trying to build the perfect system
 - [wbolster/emacs-direnv](https://github.com/wbolster/emacs-direnv) - direnv integration for emacs
