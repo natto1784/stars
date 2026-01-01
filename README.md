@@ -280,7 +280,7 @@
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [ParadoxSpiral/libmpv-rs](https://github.com/ParadoxSpiral/libmpv-rs) - A libmpv abstraction written in rust that's easy to use and provides the ability to read next to all video and audio codecs.
-- [Acizza/anup](https://github.com/Acizza/anup) - An anime tracker for AniList featuring a TUI.
+- [jonathanlmc/anup](https://github.com/jonathanlmc/anup) - An anime tracker for AniList featuring a TUI.
 - [cyaanide/brainfuck](https://github.com/cyaanide/brainfuck) - brainfuck
 
 ## SCSS 
