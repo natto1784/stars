@@ -75,6 +75,7 @@
 - [security-tools](#security-tools)
 - [shell](#shell)
 - [telegram](#telegram)
+- [tui](#tui)
 - [vim](#vim)
 - [web](#web)
 - [windows](#windows)
@@ -134,7 +135,7 @@
 ## cli 
 
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
-- [Acizza/anup](https://github.com/Acizza/anup) - An anime tracker for AniList featuring a TUI.
+- [jonathanlmc/anup](https://github.com/jonathanlmc/anup) - An anime tracker for AniList featuring a TUI.
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -323,7 +324,7 @@
 - [lambdanil/astOS](https://github.com/lambdanil/astOS) - An immutable Arch based GNU+Linux distribution utilizing BTRFS snapshots
 - [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) - The music player of today! :city_sunrise:
 - [nbfc-linux/nbfc-linux](https://github.com/nbfc-linux/nbfc-linux) - NoteBook FanControl ported to Linux
-- [Acizza/anup](https://github.com/Acizza/anup) - An anime tracker for AniList featuring a TUI.
+- [jonathanlmc/anup](https://github.com/jonathanlmc/anup) - An anime tracker for AniList featuring a TUI.
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
@@ -545,7 +546,7 @@
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
-- [Acizza/anup](https://github.com/Acizza/anup) - An anime tracker for AniList featuring a TUI.
+- [jonathanlmc/anup](https://github.com/jonathanlmc/anup) - An anime tracker for AniList featuring a TUI.
 
 ## security 
 
@@ -562,6 +563,11 @@
 ## telegram 
 
 - [EricJMarti/inventory-hunter](https://github.com/EricJMarti/inventory-hunter) - ⚡️ Get notified as soon as your next CPU, GPU, or game console is in stock
+
+## tui 
+
+- [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
+- [jonathanlmc/anup](https://github.com/jonathanlmc/anup) - An anime tracker for AniList featuring a TUI.
 
 ## vim 
 
