@@ -76,6 +76,7 @@
 - [shell](#shell)
 - [telegram](#telegram)
 - [tui](#tui)
+- [userscript](#userscript)
 - [vim](#vim)
 - [web](#web)
 - [windows](#windows)
@@ -394,7 +395,6 @@
 - [nammayatri/nammayatri](https://github.com/nammayatri/nammayatri) - A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
 - [illustris/nixfs](https://github.com/illustris/nixfs) - 
 - [ezKEa/aagl-gtk-on-nix](https://github.com/ezKEa/aagl-gtk-on-nix) - Run an-anime-game-launcher GTK version on Nix/NixOS!
-- [hohMiyazawa/Automail](https://github.com/hohMiyazawa/Automail) - An enhancement collection for anilist.co
 - [nix-community/nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [maintainer=@figsoda]
 - [Equim-chan/mjai-reviewer](https://github.com/Equim-chan/mjai-reviewer) - 🔍🀄️ Review mahjong game log with mjai-compatible mahjong AI.
 - [butaixianran/Stable-Diffusion-Webui-Civitai-Helper](https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper) - Stable Diffusion Webui Extension for Civitai, to manage your model much more easily.
@@ -406,7 +406,7 @@
 - [saimoomedits/eww-widgets](https://github.com/saimoomedits/eww-widgets) - my eww widgets!
 - [alex-ameen/floco](https://github.com/alex-ameen/floco) - Using Nix to put NPM and Yarn in a coffin
 - [ShamylZakariya/Platformer](https://github.com/ShamylZakariya/Platformer) - Learning webgpu in rust by making a simple platformer
-- [nix-community/nixpkgs.lib](https://github.com/nix-community/nixpkgs.lib) - nixpkgs lib for cheap instantiation [maintainer=@github-action] (with initial help from @blaggacao)
+- [nix-community/nixpkgs.lib](https://github.com/nix-community/nixpkgs.lib) - nixpkgs lib for cheap instantiation [maintainer=@yunfachi] (with initial help from @blaggacao)
 - [ros-visualization/python_qt_binding](https://github.com/ros-visualization/python_qt_binding) - 
 - [srid/flake-root](https://github.com/srid/flake-root) - A `flake-parts` module for finding your way to the project root directory
 - [nix-community/emacs-overlay](https://github.com/nix-community/emacs-overlay) - Bleeding edge emacs overlay [maintainer=@adisbladis]
@@ -543,7 +543,7 @@
 - [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
 - [stoatchat/stoatchat](https://github.com/stoatchat/stoatchat) - The software powering Stoat
-- [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
+- [nickel-lang/nickel](https://github.com/nickel-lang/nickel) - Better configuration for less
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [jonathanlmc/anup](https://github.com/jonathanlmc/anup) - An anime tracker for AniList featuring a TUI.
@@ -568,6 +568,10 @@
 
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [jonathanlmc/anup](https://github.com/jonathanlmc/anup) - An anime tracker for AniList featuring a TUI.
+
+## userscript 
+
+- [hohMiyazawa/Automail](https://github.com/hohMiyazawa/Automail) - An enhancement collection for anilist.co
 
 ## vim 
 
