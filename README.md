@@ -174,6 +174,10 @@
 
 ## Nix 
 
+- [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
+- [natto1784/dotfiles](https://github.com/natto1784/dotfiles) - Personal Dotfiles
+- [adisbladis/west2nix](https://github.com/adisbladis/west2nix) - Build West (Zephyr OS) projects with Nix
+- [nix-community/zephyr-nix](https://github.com/nix-community/zephyr-nix) - Develop Zephyr projects using Nix [maintainer=@adisbladis,@otavio]
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel
 - [oxalica/nocargo](https://github.com/oxalica/nocargo) - [alpha] Build Rust crates with Nix Build System.
@@ -271,7 +275,7 @@
 - [ShamylZakariya/Platformer](https://github.com/ShamylZakariya/Platformer) - Learning webgpu in rust by making a simple platformer
 - [diktomat/AdventOfCode](https://github.com/diktomat/AdventOfCode) - My solutions to Advent of Code
 - [TBS1996/speki](https://github.com/TBS1996/speki) - flashcard app in your terminal
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
 - [fedimint/fedimint](https://github.com/fedimint/fedimint) - Federated E-Cash Mint
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
 - [konradsz/igrep](https://github.com/konradsz/igrep) - Interactive Grep
