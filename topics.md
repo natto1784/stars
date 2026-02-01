@@ -202,6 +202,7 @@
 
 ## dotfiles 
 
+- [natto1784/dotfiles](https://github.com/natto1784/dotfiles) - Personal Dotfiles
 - [willbush/system](https://github.com/willbush/system) - Trying to build the perfect system
 - [Gerschtli/nix-config](https://github.com/Gerschtli/nix-config) - A collection of my system configs and dotfiles
 - [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
@@ -215,6 +216,7 @@
 
 ## emacs 
 
+- [natto1784/dotfiles](https://github.com/natto1784/dotfiles) - Personal Dotfiles
 - [willbush/system](https://github.com/willbush/system) - Trying to build the perfect system
 - [wbolster/emacs-direnv](https://github.com/wbolster/emacs-direnv) - direnv integration for emacs
 - [tecosaur/engrave-faces](https://github.com/tecosaur/engrave-faces) - Mirror of https://code.tecosaur.net/tec/engrave-faces
@@ -318,6 +320,7 @@
 
 ## linux 
 
+- [natto1784/dotfiles](https://github.com/natto1784/dotfiles) - Personal Dotfiles
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [imLinguin/nile](https://github.com/imLinguin/nile) - Unofficial Amazon Games client
 - [vnmakarov/mir](https://github.com/vnmakarov/mir) - A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR
@@ -376,6 +379,9 @@
 
 ## others 
 
+- [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
+- [adisbladis/west2nix](https://github.com/adisbladis/west2nix) - Build West (Zephyr OS) projects with Nix
+- [nix-community/zephyr-nix](https://github.com/nix-community/zephyr-nix) - Develop Zephyr projects using Nix [maintainer=@adisbladis,@otavio]
 - [jeff-phil/comingle.el](https://github.com/jeff-phil/comingle.el) - (Co)mingling of Codeium and Emacs
 - [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
@@ -485,7 +491,7 @@
 ## p2p 
 
 - [fluencelabs/nox](https://github.com/fluencelabs/nox) - Rust implementation of the Fluence network peer
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
 - [fedimint/fedimint](https://github.com/fedimint/fedimint) - Federated E-Cash Mint
 
 ## package-manager 
@@ -539,7 +545,7 @@
 - [oxalica/nocargo](https://github.com/oxalica/nocargo) - [alpha] Build Rust crates with Nix Build System.
 - [yoshuawuyts/html](https://github.com/yoshuawuyts/html) - Type-safe HTML support for Rust
 - [jordanisaacs/kernel-development-flake](https://github.com/jordanisaacs/kernel-development-flake) - Nix flake for linux kernel development (formerly kernel-module-flake)
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
 - [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
 - [stoatchat/stoatchat](https://github.com/stoatchat/stoatchat) - The software powering Stoat
