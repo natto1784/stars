@@ -27,7 +27,6 @@
 - [PHP](#php)
 - [Perl](#perl)
 - [Processing](#processing)
-- [PureScript](#purescript)
 - [Python](#python)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -125,6 +124,7 @@
 
 ## Haskell 
 
+- [nammayatri/nammayatri](https://github.com/nammayatri/nammayatri) - A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
 - [HigherOrderCO/Kind](https://github.com/HigherOrderCO/Kind) - A modern proof language
 - [swarm-game/swarm](https://github.com/swarm-game/swarm) - Resource gathering + programming game
 - [nasyxx/NasyMoe](https://github.com/nasyxx/NasyMoe) - My personal website source.
@@ -232,10 +232,6 @@
 ## Processing 
 
 - [vrom911/vrom911.github.io](https://github.com/vrom911/vrom911.github.io) - :cherry_blossom: My personal website
-
-## PureScript 
-
-- [nammayatri/nammayatri](https://github.com/nammayatri/nammayatri) - A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
 
 ## Python 
 
