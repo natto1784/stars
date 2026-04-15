@@ -226,7 +226,7 @@
 
 ## Perl 
 
-- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system
+- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system [maintainers=@dasj,@Ericson2314]
 - [goose121/initify](https://github.com/goose121/initify) - Convert systemd services to OpenRC init-scripts
 
 ## Processing 
