@@ -25,6 +25,7 @@
 - [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
+- [PLpgSQL](#plpgsql)
 - [Perl](#perl)
 - [Processing](#processing)
 - [Python](#python)
@@ -119,6 +120,7 @@
 
 ## HTML 
 
+- [the-indian-dev/touhou-india-website](https://github.com/the-indian-dev/touhou-india-website) - Website for Indian Touhou Community discord server
 - [yoshuawuyts/html](https://github.com/yoshuawuyts/html) - Type-safe HTML support for Rust
 - [n8willis/opentype-shaping-documents](https://github.com/n8willis/opentype-shaping-documents) - Documentation of OpenType shaping behavior
 
@@ -224,9 +226,12 @@
 - [jbowens/jBBCode](https://github.com/jbowens/jBBCode) - A lightweight but extensible BBCode parser
 - [Rouji/single_php_filehost](https://github.com/Rouji/single_php_filehost) - Simple Filehosting Page in a Single PHP File (obvious 0x0 clone)
 
-## Perl 
+## PLpgSQL 
 
 - [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system [maintainers=@dasj,@Ericson2314]
+
+## Perl 
+
 - [goose121/initify](https://github.com/goose121/initify) - Convert systemd services to OpenRC init-scripts
 
 ## Processing 
