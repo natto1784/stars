@@ -14,6 +14,7 @@
 - [bot](#bot)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [chrome](#chrome)
 - [cli](#cli)
 - [command-line](#command-line)
@@ -128,6 +129,10 @@
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client.
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
+
+## c-sharp 
+
+- [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
 
 ## chrome 
 
@@ -379,6 +384,7 @@
 
 ## others 
 
+- [the-indian-dev/touhou-india-website](https://github.com/the-indian-dev/touhou-india-website) - Website for Indian Touhou Community discord server
 - [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
 - [adisbladis/west2nix](https://github.com/adisbladis/west2nix) - Build West (Zephyr OS) projects with Nix
 - [nix-community/zephyr-nix](https://github.com/nix-community/zephyr-nix) - Develop Zephyr projects using Nix [maintainer=@adisbladis,@otavio]
