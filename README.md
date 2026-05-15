@@ -206,7 +206,6 @@
 - [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
 - [infinisil/nixus](https://github.com/infinisil/nixus) - Experimental deployment tool supporting multi-host abstractions
 - [fufexan/osu.nix](https://github.com/fufexan/osu.nix) - DEPRECATED osu! on Nix
-- [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [bobbbay/dotfiles](https://github.com/bobbbay/dotfiles) - ~. Nix all the things!
 - [gytis-ivaskevicius/nixfiles](https://github.com/gytis-ivaskevicius/nixfiles) - My kick-ass NixOS systems configurations!!
 - [NobbZ/nixos-config](https://github.com/NobbZ/nixos-config) - 
@@ -299,6 +298,7 @@
 - [eshrh/ames](https://github.com/eshrh/ames) - Anki Media Extractor Script: Update anki cards with desktop audio and image on gnu/linux
 - [hoodie/shell-uglify](https://github.com/hoodie/shell-uglify) - Uglify Shellcode
 - [Unic-X/dotfiles](https://github.com/Unic-X/dotfiles) - Personal dotfiles
+- [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [DreymaR/BigBagKbdTrixXKB](https://github.com/DreymaR/BigBagKbdTrixXKB) - "DreymaR's Big Bag of Keyboard Tricks" for *nix with XKB
 - [radumirea/ncmpcpp-with-cover-art](https://github.com/radumirea/ncmpcpp-with-cover-art) - 
 - [yonilevy/noiseclean](https://github.com/yonilevy/noiseclean) - A simple bash script to remove audio noise from audio and videos files.
@@ -312,6 +312,7 @@
 
 ## TypeScript 
 
+- [anantham/LexiconForge](https://github.com/anantham/LexiconForge) - AI-powered collaborative novel translator with multi-provider support and real-time feedback
 - [ad044/lainTSX](https://github.com/ad044/lainTSX) - WebGL implementation of the Serial Experiments Lain PSX game
 
 ## Vala 
