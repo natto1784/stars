@@ -384,6 +384,7 @@
 
 ## others 
 
+- [anantham/LexiconForge](https://github.com/anantham/LexiconForge) - AI-powered collaborative novel translator with multi-provider support and real-time feedback
 - [the-indian-dev/touhou-india-website](https://github.com/the-indian-dev/touhou-india-website) - Website for Indian Touhou Community discord server
 - [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
 - [adisbladis/west2nix](https://github.com/adisbladis/west2nix) - Build West (Zephyr OS) projects with Nix
