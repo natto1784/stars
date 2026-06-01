@@ -116,6 +116,7 @@
 
 ## c 
 
+- [NSG650/Polaris](https://github.com/NSG650/Polaris) - A WIP 64-bit UNIX-like kernel
 - [um4ng-tiw/Peer-to-Peer-Socket-C](https://github.com/um4ng-tiw/Peer-to-Peer-Socket-C) - A simple peer to peer chat program developed using Socket programming in C.
 - [vnmakarov/mir](https://github.com/vnmakarov/mir) - A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -380,12 +381,14 @@
 
 ## operating-system 
 
+- [NSG650/Polaris](https://github.com/NSG650/Polaris) - A WIP 64-bit UNIX-like kernel
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 
 ## others 
 
+- [mrconter1/rustc-php](https://github.com/mrconter1/rustc-php) - A Rust compiler with ownership checking, written in PHP
 - [anantham/LexiconForge](https://github.com/anantham/LexiconForge) - AI-powered collaborative novel translator with multi-provider support and real-time feedback
-- [the-indian-dev/touhou-india-website](https://github.com/the-indian-dev/touhou-india-website) - Website for Indian Touhou Community discord server
+- [daiyosei/touhou-india-website](https://github.com/daiyosei/touhou-india-website) - Website for Indian Touhou Community discord server
 - [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
 - [adisbladis/west2nix](https://github.com/adisbladis/west2nix) - Build West (Zephyr OS) projects with Nix
 - [nix-community/zephyr-nix](https://github.com/nix-community/zephyr-nix) - Develop Zephyr projects using Nix [maintainer=@adisbladis,@otavio]
