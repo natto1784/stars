@@ -43,6 +43,7 @@
 
 ## C 
 
+- [NSG650/Polaris](https://github.com/NSG650/Polaris) - A WIP 64-bit UNIX-like kernel
 - [SiriusNEO/fscape](https://github.com/SiriusNEO/fscape) - Escape from file system! A game based on a simple FUSE filesystem.
 - [um4ng-tiw/Peer-to-Peer-Socket-C](https://github.com/um4ng-tiw/Peer-to-Peer-Socket-C) - A simple peer to peer chat program developed using Socket programming in C.
 - [illustris/nixfs](https://github.com/illustris/nixfs) - 
@@ -120,7 +121,7 @@
 
 ## HTML 
 
-- [the-indian-dev/touhou-india-website](https://github.com/the-indian-dev/touhou-india-website) - Website for Indian Touhou Community discord server
+- [daiyosei/touhou-india-website](https://github.com/daiyosei/touhou-india-website) - Website for Indian Touhou Community discord server
 - [yoshuawuyts/html](https://github.com/yoshuawuyts/html) - Type-safe HTML support for Rust
 - [n8willis/opentype-shaping-documents](https://github.com/n8willis/opentype-shaping-documents) - Documentation of OpenType shaping behavior
 
@@ -222,6 +223,7 @@
 
 ## PHP 
 
+- [mrconter1/rustc-php](https://github.com/mrconter1/rustc-php) - A Rust compiler with ownership checking, written in PHP
 - [jbowens/jBBCode](https://github.com/jbowens/jBBCode) - A lightweight but extensible BBCode parser
 - [Rouji/single_php_filehost](https://github.com/Rouji/single_php_filehost) - Simple Filehosting Page in a Single PHP File (obvious 0x0 clone)
 
