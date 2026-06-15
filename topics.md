@@ -418,7 +418,7 @@
 - [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK
 - [IvarWithoutBones/nes-emu](https://github.com/IvarWithoutBones/nes-emu) - 
 - [nix-community/mineflake](https://github.com/nix-community/mineflake) - Declarative Minecraft server in NixOS [unmaintained]
-- [CommitteeOfZero/polyversal-coz-linux-patcher](https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher) - whose OS runs whose games
+- [CommitteeOfZero/polyversal-coz-linux-patcher](https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher) - Committee of Zero's community maintained Linux Patch Installer.
 - [saimoomedits/eww-widgets](https://github.com/saimoomedits/eww-widgets) - my eww widgets!
 - [alex-ameen/floco](https://github.com/alex-ameen/floco) - Using Nix to put NPM and Yarn in a coffin
 - [ShamylZakariya/Platformer](https://github.com/ShamylZakariya/Platformer) - Learning webgpu in rust by making a simple platformer
