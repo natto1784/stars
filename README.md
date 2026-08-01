@@ -43,7 +43,6 @@
 
 ## C 
 
-- [NSG650/Polaris](https://github.com/NSG650/Polaris) - A WIP 64-bit UNIX-like kernel
 - [SiriusNEO/fscape](https://github.com/SiriusNEO/fscape) - Escape from file system! A game based on a simple FUSE filesystem.
 - [um4ng-tiw/Peer-to-Peer-Socket-C](https://github.com/um4ng-tiw/Peer-to-Peer-Socket-C) - A simple peer to peer chat program developed using Socket programming in C.
 - [illustris/nixfs](https://github.com/illustris/nixfs) - 
@@ -263,6 +262,7 @@
 
 ## Rust 
 
+- [0x650/Polaris](https://github.com/0x650/Polaris) - 
 - [prashantrahul141/evelin](https://github.com/prashantrahul141/evelin) - Evelin is a general purpose, statically typed, compiled language using the QBE backend with C FFI support.
 - [xiaoniuhululu/rust_milk_tea_os](https://github.com/xiaoniuhululu/rust_milk_tea_os) - 
 - [fluencelabs/nox](https://github.com/fluencelabs/nox) - Rust implementation of the Fluence network peer
