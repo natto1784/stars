@@ -166,6 +166,7 @@
 
 ## cpp 
 
+- [prashantrahul141/cipi8](https://github.com/prashantrahul141/cipi8) - C++ Chip-8 emulator with opcode, graphics, input, and timer support.
 - [renatoGarcia/icecream-cpp](https://github.com/renatoGarcia/icecream-cpp) - 🍦 Never use cout/printf to debug again
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [yourWaifu/sleepy-discord](https://github.com/yourWaifu/sleepy-discord) - C++ library for the Discord chat client.
@@ -385,6 +386,7 @@
 
 ## others 
 
+- [prashantrahul141/KaworuOS](https://github.com/prashantrahul141/KaworuOS) - A WIP hobby arm64 Unix-like operating system with preemptive multitasking and multiprocessor support.
 - [0x650/Polaris](https://github.com/0x650/Polaris) - 
 - [mrconter1/rustc-php](https://github.com/mrconter1/rustc-php) - A Rust compiler with ownership checking, written in PHP
 - [anantham/LexiconForge](https://github.com/anantham/LexiconForge) - AI-powered collaborative novel translator with multi-provider support and real-time feedback
@@ -403,7 +405,7 @@
 - [SiriusNEO/fscape](https://github.com/SiriusNEO/fscape) - Escape from file system! A game based on a simple FUSE filesystem.
 - [jsmolka/gba-tests](https://github.com/jsmolka/gba-tests) - A collection of Game Boy Advance tests.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-- [kmc-jp/n64-emu](https://github.com/kmc-jp/n64-emu) - Low-level Nintendo64 emulator 🌏
+- [kmc-jp/kamo64](https://github.com/kmc-jp/kamo64) - Low-level Nintendo64 emulator 🌏
 - [sashi0034/GBEmu](https://github.com/sashi0034/GBEmu) - Emulator for game hardware with Z80 CPU
 - [prashantrahul141/game-of-life](https://github.com/prashantrahul141/game-of-life) - Conway's Game of Life.
 - [NorfairKing/nix-does-not-guarantee-reproducibility](https://github.com/NorfairKing/nix-does-not-guarantee-reproducibility) - 
