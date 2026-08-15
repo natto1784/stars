@@ -43,6 +43,7 @@
 
 ## C 
 
+- [prashantrahul141/KaworuOS](https://github.com/prashantrahul141/KaworuOS) - A WIP hobby arm64 Unix-like operating system with preemptive multitasking and multiprocessor support.
 - [SiriusNEO/fscape](https://github.com/SiriusNEO/fscape) - Escape from file system! A game based on a simple FUSE filesystem.
 - [um4ng-tiw/Peer-to-Peer-Socket-C](https://github.com/um4ng-tiw/Peer-to-Peer-Socket-C) - A simple peer to peer chat program developed using Socket programming in C.
 - [illustris/nixfs](https://github.com/illustris/nixfs) - 
@@ -68,8 +69,9 @@
 
 ## C++ 
 
+- [prashantrahul141/cipi8](https://github.com/prashantrahul141/cipi8) - C++ Chip-8 emulator with opcode, graphics, input, and timer support.
 - [eliemichel/WebGPU-Cpp](https://github.com/eliemichel/WebGPU-Cpp) - A single-file zero-overhead C++ idiomatic wrapper for WebGPU native
-- [kmc-jp/n64-emu](https://github.com/kmc-jp/n64-emu) - Low-level Nintendo64 emulator 🌏
+- [kmc-jp/kamo64](https://github.com/kmc-jp/kamo64) - Low-level Nintendo64 emulator 🌏
 - [sashi0034/GBEmu](https://github.com/sashi0034/GBEmu) - Emulator for game hardware with Z80 CPU
 - [ericniebler/range-v3](https://github.com/ericniebler/range-v3) - Range library for C++14/17/20, basis for C++20's std::ranges
 - [atom-robotics-lab/MR-Robot_Hardware](https://github.com/atom-robotics-lab/MR-Robot_Hardware) - 
