@@ -399,7 +399,7 @@
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
 - [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest UMU/GE-Proton and Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, EA App, Amazon Games, itch
 - [xiaoniuhululu/rust_milk_tea_os](https://github.com/xiaoniuhululu/rust_milk_tea_os) - 
-- [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel
+- [nix-community/nixbsd](https://github.com/nix-community/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel [maintainer=@artemist,@rhelmot]
 - [eliemichel/WebGPU-Cpp](https://github.com/eliemichel/WebGPU-Cpp) - A single-file zero-overhead C++ idiomatic wrapper for WebGPU native
 - [latorc/MahjongCopilot](https://github.com/latorc/MahjongCopilot) - 雀魂游戏实时 AI 指导 / In-game step-by-step AI Assistant for Maj-soul
 - [SiriusNEO/fscape](https://github.com/SiriusNEO/fscape) - Escape from file system! A game based on a simple FUSE filesystem.
