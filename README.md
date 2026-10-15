@@ -255,7 +255,7 @@
 - [risicle/nix-build-task](https://github.com/risicle/nix-build-task) - A reusable Concourse task for building Nix derivations
 - [lambdanil/astOS](https://github.com/lambdanil/astOS) - An immutable Arch based GNU+Linux distribution utilizing BTRFS snapshots
 - [Unic-X/Kala-Bot](https://github.com/Unic-X/Kala-Bot) - 
-- [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) - The music player of today! :city_sunrise:
+- [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) - Music player from another galaxy :milky_way:
 - [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
 - [ligh7s/smoked-salmon](https://github.com/ligh7s/smoked-salmon) - salmon uploading tools~
 - [nyaadevs/nyaa](https://github.com/nyaadevs/nyaa) - Bittorrent software for cats
