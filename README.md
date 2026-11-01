@@ -16,6 +16,7 @@
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Haxe](#haxe)
+- [Janet](#janet)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [LLVM](#llvm)
@@ -140,6 +141,10 @@
 
 - [FunkinCrew/Funkin](https://github.com/FunkinCrew/Funkin) - A rhythm game made with HaxeFlixel
 
+## Janet 
+
+- [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
+
 ## JavaScript 
 
 - [hohMiyazawa/Automail](https://github.com/hohMiyazawa/Automail) - An enhancement collection for anilist.co
@@ -208,7 +213,6 @@
 - [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
 - [infinisil/nixus](https://github.com/infinisil/nixus) - Experimental deployment tool supporting multi-host abstractions
 - [fufexan/osu.nix](https://github.com/fufexan/osu.nix) - DEPRECATED osu! on Nix
-- [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [bobbbay/dotfiles](https://github.com/bobbbay/dotfiles) - ~. Nix all the things!
 - [gytis-ivaskevicius/nixfiles](https://github.com/gytis-ivaskevicius/nixfiles) - My kick-ass NixOS systems configurations!!
 - [NobbZ/nixos-config](https://github.com/NobbZ/nixos-config) - 
